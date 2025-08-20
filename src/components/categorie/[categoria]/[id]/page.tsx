@@ -1,26 +1,29 @@
-'use client';
-import { getLuogoById, getAllLuoghi } from '@/lib/getLuoghi';
-import LuogoDetail from '@/components/luoghi/LuogoDetail';
+// src/app/categorie/[categoria]/[id]/page.tsx
 import { notFound } from 'next/navigation';
+import { getLuogoById, getAllLuoghi } from '@/lib/getLuoghi';
+import { generateSlug } from '@/lib/utils';
+import LuogoDetail from '@/components/luoghi/LuogoDetail';
 import { Metadata } from 'next';
 
-type LuogoPageProps = {
-  params: {
-    id: string;
-  };
-};
+// Props della pagina
+interface LuogoDetailPageProps {
+  params: { id: string };
+}
 
-// Genera metadata dinamici per la SEO
-export async function generateMetadata({ params }: LuogoPageProps): Promise<Metadata> {
-  const luogo = await getLuogoById(parseInt(params.id));
+// Funzione per generare Metadata dinamici (ottimo per SEO)
+export async function generateMetadata({ params }: LuogoDetailPageProps): Promise<Metadata> {
+  const id = parseInt(params.id, 10);
+  const luogo = await getLuogoById(id);
+
   if (!luogo) {
     return {
       title: 'Luogo non trovato',
     };
   }
+
   return {
     title: `${luogo.nome} | Portfolio Luoghi`,
-    description: luogo.descrizione,
+    description: truncateText(luogo.descrizione, 155), // Funzione da utils.ts
   };
 }
 
@@ -28,21 +31,25 @@ export async function generateMetadata({ params }: LuogoPageProps): Promise<Meta
 export async function generateStaticParams() {
   const luoghi = await getAllLuoghi();
   return luoghi.map((luogo) => ({
-    categoria: luogo.categoria,
+    categoria: generateSlug(luogo.categoria),
     id: luogo.id.toString(),
   }));
 }
 
-export default async function LuogoPage({ params }: LuogoPageProps) {
-  const luogo = await getLuogoById(parseInt(params.id));
+// Il componente Pagina
+export default async function LuogoDetailPage({ params }: LuogoDetailPageProps) {
+  const id = parseInt(params.id, 10);
+  const luogo = await getLuogoById(id);
 
   if (!luogo) {
-    notFound(); // Mostra una pagina 404
+    notFound(); // Se il luogo non esiste, mostra una 404
   }
 
-  return (
-    <main className="container mx-auto p-4">
-      <LuogoDetail luogo={luogo} />
-    </main>
-  );
+  return <LuogoDetail luogo={luogo} />;
+}
+
+// Aggiungi questa funzione a `utils.ts` se non c'è
+function truncateText(text: string, maxLength: number): string {
+    if (text.length <= maxLength) return text;
+    return text.substr(0, text.lastIndexOf(' ', maxLength)) + '...';
 }
