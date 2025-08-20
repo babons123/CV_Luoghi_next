@@ -1,211 +1,100 @@
+// src/app/categorie/[categoria]/page.tsx
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
-import { getLuoghiByCategoria } from '@/lib/getLuoghi';
-import { capitalizeWords } from '@/lib/utils';
-import LuogoCard from '@/components/luoghi/LuogoCard';
+import { getLuoghiByCategoria, getCategorieDisponibili } from '@/lib/getLuoghi';
+import { capitalizeWords, generateSlug } from '@/lib/utils';
 import CategoriaGrid from '@/components/categorie/CategoriaGrid';
 
 interface CategoriaPageProps {
   params: {
-    categoria: string;
+    categoria: string; // Questo è lo slug, es: "castelli-e-fortezze"
   };
 }
 
-// Genera metadata dinamici per SEO
+// NUOVO E FONDAMENTALE: Genera i percorsi statici per le categorie
+export async function generateStaticParams() {
+  const categorieNomi = await getCategorieDisponibili();
+  return categorieNomi.map((nome) => ({
+    categoria: generateSlug(nome),
+  }));
+}
+
+// CORRETTO: Genera metadata dinamici per SEO
 export async function generateMetadata({ params }: CategoriaPageProps): Promise<Metadata> {
-  const categoriaDecoded = decodeURIComponent(params.categoria);
-  const categoriaTitle = capitalizeWords(categoriaDecoded.replace(/-/g, ' '));
-  
-  const luoghi = await getLuoghiByCategoria(categoriaDecoded);
-  
-  if (!luoghi.length) {
-    return {
-      title: 'Categoria non trovata',
-      description: 'La categoria richiesta non è stata trovata.'
-    };
+  const categorieDisponibili = await getCategorieDisponibili();
+  const nomeCategoria = categorieDisponibili.find(cat => generateSlug(cat) === params.categoria);
+
+  if (!nomeCategoria) {
+    return { title: 'Categoria non trovata' };
   }
 
+  const categoriaTitle = capitalizeWords(nomeCategoria);
   return {
     title: `${categoriaTitle} | I Miei Viaggi`,
-    description: `Scopri tutti i ${luoghi.length} ${categoriaTitle.toLowerCase()} che ho visitato. Foto, commenti e informazioni dettagliate su ogni luogo.`,
-    keywords: [categoriaTitle.toLowerCase(), 'viaggi', 'turismo', 'luoghi visitati', 'italia'],
-    openGraph: {
-      title: `${categoriaTitle} | I Miei Viaggi`,
-      description: `${luoghi.length} ${categoriaTitle.toLowerCase()} visitati`,
-      type: 'website',
-    },
+    description: `Scopri tutti i luoghi nella categoria ${categoriaTitle.toLowerCase()} che ho visitato.`,
   };
 }
 
 export default async function CategoriaPage({ params }: CategoriaPageProps) {
-  const categoriaDecoded = decodeURIComponent(params.categoria);
-  const luoghi = await getLuoghiByCategoria(categoriaDecoded);
-  
-  // Se non ci sono luoghi per questa categoria, mostra 404
-  if (!luoghi.length) {
+  // CORREZIONE LOGICA: Trova il nome originale della categoria a partire dallo slug
+  const categorieDisponibili = await getCategorieDisponibili();
+  const nomeCategoria = categorieDisponibili.find(
+    cat => generateSlug(cat) === params.categoria
+  );
+
+  // Se lo slug non corrisponde a nessuna categoria, mostra 404
+  if (!nomeCategoria) {
     notFound();
   }
 
-  const categoriaTitle = capitalizeWords(categoriaDecoded.replace(/-/g, ' '));
+  // Ora usa il nome corretto (es. "musei") per caricare i dati
+  const luoghi = await getLuoghiByCategoria(nomeCategoria);
   
-  // Ordina i luoghi per data di visita (più recenti prima)
+  // Questa condizione ora è una sicurezza aggiuntiva, ma non dovrebbe più essere la causa del 404
+  if (luoghi.length === 0) {
+    // Potresti mostrare un messaggio "Nessun luogo in questa categoria" invece di un 404
+    console.warn(`Nessun luogo trovato per la categoria valida: ${nomeCategoria}`);
+  }
+
+  const categoriaTitle = capitalizeWords(nomeCategoria);
+  
   const luoghiOrdinati = luoghi.sort((a, b) => 
     new Date(b.data_visita).getTime() - new Date(a.data_visita).getTime()
   );
 
+  // Rimuoviamo lo <style jsx> e usiamo Tailwind per coerenza
   return (
-    <div className="categoria-page">
-      <div className="container">
+    <div className="min-h-screen py-8">
+      <div className="container mx-auto px-4">
         {/* Header della categoria */}
-        <section className="categoria-header">
-          <div className="categoria-header__content">
-            <h1 className="categoria-header__title">{categoriaTitle}</h1>
-            <p className="categoria-header__subtitle">
+        <section className="flex flex-col md:flex-row justify-between items-center mb-12 py-8 border-b border-gray-200 gap-6 text-center md:text-left">
+          <div>
+            <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-2">
+              {categoriaTitle}
+            </h1>
+            <p className="text-xl text-gray-600">
               {luoghi.length} {luoghi.length === 1 ? 'luogo visitato' : 'luoghi visitati'}
             </p>
           </div>
-          <div className="categoria-header__stats">
-            <div className="stat-card">
-              <span className="stat-card__number">{luoghi.length}</span>
-              <span className="stat-card__label">Luoghi</span>
+          <div className="flex gap-4">
+            <div className="flex flex-col items-center p-6 bg-white rounded-xl shadow-md min-w-[120px]">
+              <span className="text-3xl font-bold text-indigo-600">{luoghi.length}</span>
+              <span className="text-sm font-semibold text-gray-500 mt-1 uppercase tracking-wider">Luoghi</span>
             </div>
-            <div className="stat-card">
-              <span className="stat-card__number">
+            <div className="flex flex-col items-center p-6 bg-white rounded-xl shadow-md min-w-[120px]">
+              <span className="text-3xl font-bold text-indigo-600">
                 {new Set(luoghi.flatMap(l => l.tags)).size}
               </span>
-              <span className="stat-card__label">Tag</span>
+              <span className="text-sm font-semibold text-gray-500 mt-1 uppercase tracking-wider">Tag</span>
             </div>
           </div>
         </section>
 
         {/* Griglia dei luoghi */}
-        <section className="categoria-content">
+        <section>
           <CategoriaGrid luoghi={luoghiOrdinati} />
         </section>
       </div>
-
-      <style jsx>{`
-        .categoria-page {
-          min-height: 100vh;
-          padding: 2rem 0;
-        }
-
-        .categoria-header {
-          display: flex;
-          justify-content: space-between;
-          align-items: center;
-          margin-bottom: 3rem;
-          padding: 2rem 0;
-          border-bottom: 1px solid #e2e8f0;
-        }
-
-        .categoria-header__content {
-          flex: 1;
-        }
-
-        .categoria-header__title {
-          font-size: 2.5rem;
-          font-weight: 700;
-          color: #1a202c;
-          margin: 0 0 0.5rem 0;
-          line-height: 1.2;
-        }
-
-        .categoria-header__subtitle {
-          font-size: 1.25rem;
-          color: #718096;
-          margin: 0;
-        }
-
-        .categoria-header__stats {
-          display: flex;
-          gap: 1.5rem;
-        }
-
-        .stat-card {
-          display: flex;
-          flex-direction: column;
-          align-items: center;
-          padding: 1.5rem;
-          background: white;
-          border-radius: 12px;
-          box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-          min-width: 100px;
-        }
-
-        .stat-card__number {
-          font-size: 2rem;
-          font-weight: 700;
-          color: #667eea;
-          line-height: 1;
-        }
-
-        .stat-card__label {
-          font-size: 0.9rem;
-          color: #718096;
-          margin-top: 0.5rem;
-          text-transform: uppercase;
-          letter-spacing: 0.5px;
-          font-weight: 600;
-        }
-
-        .categoria-content {
-          margin-bottom: 2rem;
-        }
-
-        @media (max-width: 768px) {
-          .categoria-page {
-            padding: 1rem 0;
-          }
-
-          .categoria-header {
-            flex-direction: column;
-            align-items: stretch;
-            gap: 1.5rem;
-            text-align: center;
-          }
-
-          .categoria-header__title {
-            font-size: 2rem;
-          }
-
-          .categoria-header__subtitle {
-            font-size: 1.1rem;
-          }
-
-          .categoria-header__stats {
-            justify-content: center;
-            gap: 1rem;
-          }
-
-          .stat-card {
-            padding: 1rem;
-            min-width: 80px;
-          }
-
-          .stat-card__number {
-            font-size: 1.5rem;
-          }
-        }
-
-        @media (max-width: 480px) {
-          .categoria-header__stats {
-            flex-direction: column;
-            align-items: center;
-          }
-
-          .stat-card {
-            width: 100%;
-            max-width: 200px;
-            flex-direction: row;
-            justify-content: space-between;
-          }
-
-          .stat-card__number {
-            font-size: 1.75rem;
-          }
-        }
-      `}</style>
     </div>
   );
 }

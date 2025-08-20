@@ -1,16 +1,18 @@
 // src/app/layout.tsx
-import type { Metadata } from 'next';
+import type { Metadata, Viewport } from 'next'; // Importa Viewport
 import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
 import './globals.css';
 
+// L'oggetto Metadata principale
 export const metadata: Metadata = {
-  title: 'I Miei Viaggi | Portfolio Luoghi Visitati',
+  title: {
+    default: 'I Miei Viaggi | Portfolio Luoghi Visitati',
+    template: '%s | I Miei Viaggi', // Utile per i titoli delle pagine interne
+  },
   description: 'Una collezione personale dei luoghi che ho visitato, dalle meraviglie storiche ai tesori naturali',
   keywords: ['viaggi', 'turismo', 'luoghi', 'musei', 'castelli', 'parchi', 'italia'],
   authors: [{ name: 'Il Tuo Nome' }],
-  viewport: 'width=device-width, initial-scale=1',
-  themeColor: '#667eea',
   openGraph: {
     type: 'website',
     locale: 'it_IT',
@@ -20,6 +22,13 @@ export const metadata: Metadata = {
   },
 };
 
+// Il nuovo oggetto Viewport
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
+  themeColor: '#667eea',
+};
+
 export default function RootLayout({
   children,
 }: {
@@ -27,10 +36,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="it">
-      <body>
-        <div className="app-container">
+      <body className="bg-gray-50 text-gray-800"> {/* Aggiunto stile di base */}
+        <div className="flex flex-col min-h-screen">
           <Header />
-          <main className="main-content">
+          <main className="flex-grow">
             {children}
           </main>
           <Footer />
