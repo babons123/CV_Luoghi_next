@@ -1,0 +1,1290 @@
+[
+  {
+    "id": 1,
+    "categoria": "museo",
+    "nome": "Palazzo Te",
+    "data_visita": "",
+    "descrizione": "",
+    "indirizzo": "46100 Mantova MN",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.1478,
+      "lng": 10.7864
+    }
+  },
+  {
+    "id": 2,
+    "categoria": "museo",
+    "nome": "Museo di Palazzo San Sebastiano",
+    "data_visita": "",
+    "descrizione": "",
+    "indirizzo": "46100 Mantova MN",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.1532,
+      "lng": 10.7945
+    }
+  },
+  {
+    "id": 3,
+    "categoria": "museo",
+    "nome": "Museo del Tempo",
+    "data_visita": "",
+    "descrizione": "",
+    "indirizzo": "46100 Mantava MN",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.1607,
+      "lng": 10.7977
+    }
+  },
+  {
+    "id": 4,
+    "categoria": "museo",
+    "nome": "Area Archeologica - Domus Romana",
+    "data_visita": "",
+    "descrizione": "",
+    "indirizzo": "46100 Mantova MN",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.1598,
+      "lng": 10.7949
+    }
+  },
+  {
+    "id": 5,
+    "categoria": "museo",
+    "nome": "Palazzo Ducale",
+    "data_visita": "",
+    "descrizione": "",
+    "indirizzo": "46100 Mantova MN",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.1603,
+      "lng": 10.7979
+    }
+  },
+  {
+    "id": 6,
+    "categoria": "museo",
+    "nome": "Museo Archeologico Nazionale di Mantova",
+    "data_visita": "",
+    "descrizione": "",
+    "indirizzo": "46100 Mantova MN",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.1590,
+      "lng": 10.7941
+    }
+  },
+  {
+    "id": 7,
+    "categoria": "museo",
+    "nome": "Museo Egizio",
+    "data_visita": "",
+    "descrizione": "",
+    "indirizzo": "10123 Torino TO",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.0684,
+      "lng": 7.6843
+    }
+  },
+  {
+    "id": 8,
+    "categoria": "museo",
+    "nome": "The Museum of Modern Art (MoMA)",
+    "data_visita": "2015-03-08",
+    "descrizione": "",
+    "indirizzo": "New York NY 10019 USA",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 40.7614,
+      "lng": -73.9776
+    }
+  },
+  {
+    "id": 9,
+    "categoria": "museo",
+    "nome": "Metropolitan Museum of Art",
+    "data_visita": "2015-03-09",
+    "descrizione": "",
+    "indirizzo": "New York NY 10028 USA",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 40.7794,
+      "lng": -73.9632
+    }
+  },
+  {
+    "id": 10,
+    "categoria": "museo",
+    "nome": "American Museum of Natural History",
+    "data_visita": "2015-03-09",
+    "descrizione": "",
+    "indirizzo": "New York NY 10024 USA",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 40.7813,
+      "lng": -73.9731
+    }
+  },
+  {
+    "id": 11,
+    "categoria": "museo",
+    "nome": "Solomon R. Guggenheim Museum",
+    "data_visita": "2015-03-10",
+    "descrizione": "",
+    "indirizzo": "New York NY 10128 USA",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 40.7829,
+      "lng": -73.9590
+    }
+  },
+  {
+    "id": 12,
+    "categoria": "museo",
+    "nome": "Statue of Liberty Museum",
+    "data_visita": "2015-03-11",
+    "descrizione": "",
+    "indirizzo": "Liberty Island New York NY 10004 USA",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 40.6892,
+      "lng": -74.0445
+    }
+  },
+  {
+    "id": 13,
+    "categoria": "museo",
+    "nome": "Ellis Island National Museum of Immigration",
+    "data_visita": "2015-03-11",
+    "descrizione": "",
+    "indirizzo": "Ellis Island Jersey City NJ 07305 USA",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 40.6995,
+      "lng": -74.0395
+    }
+  },
+  {
+    "id": 14,
+    "categoria": "museo",
+    "nome": "Museum Mensch und Natur",
+    "data_visita": "2015-04-02",
+    "descrizione": "",
+    "indirizzo": "80638 München GER",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 48.1621,
+      "lng": 11.4706
+    }
+  },
+  {
+    "id": 15,
+    "categoria": "museo",
+    "nome": "Museum Brandhorst",
+    "data_visita": "2015-04-03",
+    "descrizione": "",
+    "indirizzo": "80333 München GER",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 48.1486,
+      "lng": 11.5744
+    }
+  },
+  {
+    "id": 16,
+    "categoria": "museo",
+    "nome": "Pinakothek der Moderne",
+    "data_visita": "2015-04-03",
+    "descrizione": "",
+    "indirizzo": "80333 München GER",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 48.1472,
+      "lng": 11.5733
+    }
+  },
+  {
+    "id": 17,
+    "categoria": "museo",
+    "nome": "Museo Galileo",
+    "data_visita": "2016-02-16",
+    "descrizione": "",
+    "indirizzo": "50122 Firenze FI",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 43.7678,
+      "lng": 11.2557
+    }
+  },
+  {
+    "id": 18,
+    "categoria": "museo",
+    "nome": "Museo di San Marco",
+    "data_visita": "2016-02-16",
+    "descrizione": "",
+    "indirizzo": "50122 Firenze FI",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 43.7748,
+      "lng": 11.2590
+    }
+  },
+  {
+    "id": 19,
+    "categoria": "museo",
+    "nome": "Museo dell’Opera del Duomo di Firenze",
+    "data_visita": "2016-02-17",
+    "descrizione": "",
+    "indirizzo": "50122 Firenze FI",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 43.7723,
+      "lng": 11.2558
+    }
+  },
+  {
+    "id": 20,
+    "categoria": "museo",
+    "nome": "Palazzo Pitti",
+    "data_visita": "2016-02-17",
+    "descrizione": "",
+    "indirizzo": "50122 Firenze FI",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 43.7651,
+      "lng": 11.2500
+    }
+  },
+  {
+    "id": 21,
+    "categoria": "museo",
+    "nome": "Galleria degli Uffizi",
+    "data_visita": "2016-02-18",
+    "descrizione": "",
+    "indirizzo": "50122 Firenze FI",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 43.7687,
+      "lng": 11.2550
+    }
+  },
+  {
+    "id": 22,
+    "categoria": "museo",
+    "nome": "Musée Matisse",
+    "data_visita": "2017-04-09",
+    "descrizione": "",
+    "indirizzo": "06000 Nice FRA",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 43.7193,
+      "lng": 7.2760
+    }
+  },
+  {
+    "id": 23,
+    "categoria": "museo",
+    "nome": "Musée National Marc Chagall",
+    "data_visita": "2017-04-09",
+    "descrizione": "",
+    "indirizzo": "06000 Nice FRA",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 43.7094,
+      "lng": 7.2696
+    }
+  },
+  {
+    "id": 24,
+    "categoria": "museo",
+    "nome": "Fondazione Maeght",
+    "data_visita": "2017-04-10",
+    "descrizione": "",
+    "indirizzo": "06570 Saint-Paul-de-Vence FRA",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 43.7009,
+      "lng": 7.1151
+    }
+  },
+  {
+    "id": 25,
+    "categoria": "museo",
+    "nome": "Musée Picasso",
+    "data_visita": "2017-04-10",
+    "descrizione": "",
+    "indirizzo": "06600 Antibes FRA",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 43.5807,
+      "lng": 7.1282
+    }
+  },
+  {
+    "id": 26,
+    "categoria": "museo",
+    "nome": "Museo delle Palafitte del Lago di Ledro",
+    "data_visita": "2017-08-20",
+    "descrizione": "",
+    "indirizzo": "38067 Ledro TN",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.8736,
+      "lng": 10.7597
+    }
+  },
+  {
+    "id": 27,
+    "categoria": "museo",
+    "nome": "Centro Visitatori Lago Ampola",
+    "data_visita": "2017-08-22",
+    "descrizione": "",
+    "indirizzo": "38067 Ledro TN",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.8667,
+      "lng": 10.7167
+    }
+  },
+  {
+    "id": 28,
+    "categoria": "museo",
+    "nome": "Reptiland Galleria di Scienze Naturali e Centro Erpetologico",
+    "data_visita": "2017-08-26",
+    "descrizione": "",
+    "indirizzo": "38066 Riva del Garda TN",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.8850,
+      "lng": 10.8397
+    }
+  },
+  {
+    "id": 29,
+    "categoria": "museo",
+    "nome": "Museo di Mineralogia",
+    "data_visita": "2017-10-13",
+    "descrizione": "",
+    "indirizzo": "43100 Parma PR",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 44.8001,
+      "lng": 10.3260
+    }
+  },
+  {
+    "id": 30,
+    "categoria": "museo",
+    "nome": "Museo Mineralogico e Naturalistico di Bormio",
+    "data_visita": "2021-12-04",
+    "descrizione": "",
+    "indirizzo": "23032 Bormio SO",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 46.4667,
+      "lng": 10.3667
+    }
+  },
+  {
+    "id": 31,
+    "categoria": "museo",
+    "nome": "Parco Archeo Natura di Fiavé",
+    "data_visita": "2022-06-18",
+    "descrizione": "",
+    "indirizzo": "38075 Fiavè TN",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 46.0036,
+      "lng": 10.8428
+    }
+  },
+  {
+    "id": 32,
+    "categoria": "museo",
+    "nome": "Museo Civico Di Todi",
+    "data_visita": "2022-12-03",
+    "descrizione": "",
+    "indirizzo": "06059 Todi PG",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 42.7819,
+      "lng": 12.4053
+    }
+  },
+  {
+    "id": 33,
+    "categoria": "museo",
+    "nome": "Cisterne Romane",
+    "data_visita": "2022-12-03",
+    "descrizione": "",
+    "indirizzo": "06059 Todi PG",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 42.7812,
+      "lng": 12.4058
+    }
+  },
+  {
+    "id": 34,
+    "categoria": "museo",
+    "nome": "Museo Archeologico Nazionale dell’Umbria",
+    "data_visita": "2022-12-04",
+    "descrizione": "",
+    "indirizzo": "06121 Perugia PG",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 43.1097,
+      "lng": 12.3914
+    }
+  },
+  {
+    "id": 35,
+    "categoria": "museo",
+    "nome": "Perugia Sotterranea - Area Archeologica",
+    "data_visita": "2022-12-04",
+    "descrizione": "",
+    "indirizzo": "06121 Perugia PG",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 43.1121,
+      "lng": 12.3888
+    }
+  },
+  {
+    "id": 36,
+    "categoria": "museo",
+    "nome": "Pozzo Etrusco",
+    "data_visita": "2022-12-04",
+    "descrizione": "",
+    "indirizzo": "06121 Perugia PG",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 43.1120,
+      "lng": 12.3890
+    }
+  },
+  {
+    "id": 37,
+    "categoria": "museo",
+    "nome": "Museo Regionale della Ceramica di Deruta",
+    "data_visita": "2022-12-05",
+    "descrizione": "",
+    "indirizzo": "06053 Deruta PG",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 43.0758,
+      "lng": 12.4186
+    }
+  },
+  {
+    "id": 38,
+    "categoria": "museo",
+    "nome": "Pinacoteca Comunale di Deruta",
+    "data_visita": "2022-12-05",
+    "descrizione": "",
+    "indirizzo": "06053 DerCIA PG",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 43.0759,
+      "lng": 12.4187
+    }
+  },
+  {
+    "id": 39,
+    "categoria": "museo",
+    "nome": "Museo del Tibet Votigno di Canossa",
+    "data_visita": "2023-04-22",
+    "descrizione": "",
+    "indirizzo": "42026 Votigno di Canossa RE",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 44.5767,
+      "lng": 10.5400
+    }
+  },
+  {
+    "id": 40,
+    "categoria": "museo",
+    "nome": "Museo Nazionale di Canossa",
+    "data_visita": "2023-04-22",
+    "descrizione": "",
+    "indirizzo": "42026 Canossa RE",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 44.5761,
+      "lng": 10.5567
+    }
+  },
+  {
+    "id": 41,
+    "categoria": "museo",
+    "nome": "Museo del Fungo Porcino di Borgotaro",
+    "data_visita": "2023-09-17",
+    "descrizione": "",
+    "indirizzo": "43043 Borgo Val di Taro PR",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 44.4889,
+      "lng": 9.7667
+    }
+  },
+  {
+    "id": 42,
+    "categoria": "museo",
+    "nome": "Museo del Giocattolo",
+    "data_visita": "2023-09-23",
+    "descrizione": "",
+    "indirizzo": "46013 Canneto Sull’Oglio MN",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.1522,
+      "lng": 10.3842
+    }
+  },
+  {
+    "id": 43,
+    "categoria": "museo",
+    "nome": "Ecomuseo delle Valli Oglio - Chiese",
+    "data_visita": "2023 autem-09-23",
+    "descrizione": "",
+    "indirizzo": "46013 Canneto Sull’Oglio MN",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.1525,
+      "lng": 10.3845
+    }
+  },
+  {
+    "id": 44,
+    "categoria": "museo",
+    "nome": "Museo Geopaleontologico di Camposilvano",
+    "data_visita": "2023-09-24",
+    "descrizione": "",
+    "indirizzo": "37030 Camposilvano VR",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.7667,
+      "lng": 11.1667
+    }
+  },
+  {
+    "id": 45,
+    "categoria": "museo",
+    "nome": "Museo di Storia Naturale di Verona",
+    "data_visita": "2023-10-05",
+    "descrizione": "",
+    "indirizzo": "37129 Verona VR",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.4347,
+      "lng": 11.0019
+    }
+  },
+  {
+    "id": 46,
+    "categoria": "museo",
+    "nome": "Museo di Castelvecchio",
+    "data_visita": "2023-10-05",
+    "descrizione": "",
+    "indirizzo": "37129 Verona VR",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.4400,
+      "lng": 10.9877
+    }
+  },
+  {
+    "id": 47,
+    "categoria": "museo",
+    "nome": "Museo Lapidario Maffeiano",
+    "data_visita": "2023-10-05",
+    "descrizione": "",
+    "indirizzo": "37129 Verona VR",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.4401,
+      "lng": 10.9880
+    }
+  },
+  {
+    "id": 48,
+    "categoria": "museo",
+    "nome": "MACA - Mantova Collezioni Antiche",
+    "data_visita": "2023-10-22",
+    "descrizione": "",
+    "indirizzo": "46100 Mantova MN",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.1595,
+      "lng": 10.7940
+    }
+  },
+  {
+    "id": 49,
+    "categoria": "museo",
+    "nome": "Museo del Culatello",
+    "data_visita": "2023-11-11",
+    "descrizione": "",
+    "indirizzo": "43010 Polesine Parmense PR",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.0139,
+      "lng": 10.0903
+    }
+  },
+  {
+    "id": 50,
+    "categoria": "museo",
+    "nome": "Museo Nazionale della Montagna \"Duca degli Abruzzi\"",
+    "data_visita": "2023-11-15",
+    "descrizione": "",
+    "indirizzo": "10131 Torino TO",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.0789,
+      "lng": 7.7028
+    }
+  },
+  {
+    "id": 51,
+    "categoria": "museo",
+    "nome": "Museo della Figurina",
+    "data_visita": "2023-12-03",
+    "descrizione": "",
+    "indirizzo": "41121 Modena MO",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 44.6471,
+      "lng": 10.9254
+    }
+  },
+  {
+    "id": 52,
+    "categoria": "museo",
+    "nome": "Palazzina dei Giardini",
+    "data_visita": "2023-12-03",
+    "descrizione": "",
+    "indirizzo": "41121 Modena MO",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 44.6475,
+      "lng": 10.9260
+    }
+  },
+  {
+    "id": 53,
+    "categoria": "museo",
+    "nome": "Museo Geologico G. Cortesi",
+    "data_visita": "2024-06-07",
+    "descrizione": "",
+    "indirizzo": "29014 Castell’Arquato PC",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 44.8500,
+      "lng": 9.8667
+    }
+  },
+  {
+    "id": 54,
+    "categoria": "museo",
+    "nome": "MuMAB - Museo Mare Antico e Biodiversità",
+    "data_visita": "2024-06-07",
+    "descrizione": "",
+    "indirizzo": "43039 Salsomaggiore Terme PR",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 44.8167,
+      "lng": 9.9833
+    }
+  },
+  {
+    "id": 55,
+    "categoria": "museo",
+    "nome": "Museo della Battaglia",
+    "data_visita": "2024-06-16",
+    "descrizione": "",
+    "indirizzo": "25015 San Martino della Battaglia BS",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.4369,
+      "lng": 10.5986
+    }
+  },
+  {
+    "id": 56,
+    "categoria": "museo",
+    "nome": "Museo Risorgimentale di Solferino",
+    "data_visita": "2024-06-16",
+    "descrizione": "",
+    "indirizzo": "46040 Solferino MN",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.3719,
+      "lng": 10.5667
+    }
+  },
+  {
+    "id": 57,
+    "categoria": "museo",
+    "nome": "Museo Regionale di Scienze Naturali Efisio Noussan",
+    "data_visita": "2024-07-03",
+    "descrizione": "",
+    "indirizzo": "11010 Saint-Pierre AO",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.7083,
+      "lng": 7.2167
+    }
+  },
+  {
+    "id": 58,
+    "categoria": "museo",
+    "nome": "Maison Bruil",
+    "data_visita": "2024-07-03",
+    "descrizione": "",
+    "indirizzo": "11010 Villes Dessous AO",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.7167,
+      "lng": 7.3167
+    }
+  },
+  {
+    "id": 59,
+    "categoria": "museo",
+    "nome": "Maison Musée Berton",
+    "data_visita": "2024-07-04",
+    "descrizione": "",
+    "indirizzo": "11016 La Thuile AO",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.7167,
+      "lng": 6.9500
+    }
+  },
+  {
+    "id": 60,
+    "categoria": "museo",
+    "nome": "Area Megalitica di Saint-Martin-de-Corléans",
+    "data_visita": "2024-07-06",
+    "descrizione": "",
+    "indirizzo": "11100 Aosta AO",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.7389,
+      "lng": 7.3111
+    }
+  },
+  {
+    "id": 61,
+    "categoria": "museo",
+    "nome": "Museo Archeologico Regionale Valdostano",
+    "data_visita": "2024-07-06",
+    "descrizione": "",
+    "indirizzo": "11100 Aosta AO",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.7375,
+      "lng": 7.3222
+    }
+  },
+  {
+    "id": 62,
+    "categoria": "museo",
+    "nome": "Criptoportico Forense",
+    "data_visita": "2024-07-06",
+    "descrizione": "",
+    "indirizzo": "11100 Aosta AO",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.7378,
+      "lng": 7.3219
+    }
+  },
+  {
+    "id": 63,
+    "categoria": "museo",
+    "nome": "Chiesa Paleocristiana di San Lorenzo",
+    "data_visita": "2024-07-06",
+    "descrizione": "",
+    "indirizzo": "11100 Aosta AO",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.7380,
+      "lng": 7.3220
+    }
+  },
+  {
+    "id": 64,
+    "categoria": "museo",
+    "nome": "Chiostro Romanico di Sant’Orso",
+    "data_visita": "2024-07-06",
+    "descrizione": "",
+    "indirizzo": "11100 Aosta AO",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.7400,
+      "lng": 7.3267
+    }
+  },
+  {
+    "id": 65,
+    "categoria": "museo",
+    "nome": "Mav Museo dell’Artigianato Valdostano di Tradizione",
+    "data_visita": "2024-07-07",
+    "descrizione": "",
+    "indirizzo": "11020 Fénis AO",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.7333,
+      "lng": 7.4833
+    }
+  },
+  {
+    "id": 66,
+    "categoria": "museo",
+    "nome": "Centro Visitatori Riserva Naturale Regionale del Mont Mars",
+    "data_visita": "2024-07-08",
+    "descrizione": "",
+    "indirizzo": "11020 Fontainemore AO",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.6500,
+      "lng": 7.8500
+    }
+  },
+  {
+    "id": 67,
+    "categoria": "museo",
+    "nome": "Parco Archeologico Neapolis",
+    "data_visita": "2024-08-11",
+    "descrizione": "",
+    "indirizzo": "96100 Siracusa SR",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 37.0758,
+      "lng": 15.2711
+    }
+  },
+  {
+    "id": 68,
+    "categoria": "museo",
+    "nome": "Museo del Prosciutto di Parma",
+    "data_visita": "2024-09-14",
+    "descrizione": "",
+    "indirizzo": "43013 Langhirano PR",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 44.6333,
+      "lng": 10.2000
+    }
+  },
+  {
+    "id": 69,
+    "categoria": "museo",
+    "nome": "Museo del Palazzo dei Pio",
+    "data_visita": "2024-09-22",
+    "descrizione": "",
+    "indirizzo": "41012 Carpi MO",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 44.7722,
+      "lng": 10.8856
+    }
+  },
+  {
+    "id": 70,
+    "categoria": "museo",
+    "nome": "Museo della Città",
+    "data_visita": "2024-09-22",
+    "descrizione": "",
+    "indirizzo": "41012 Carpi MO",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 44.7725,
+      "lng": 10.8858
+    }
+  },
+  {
+    "id": 71,
+    "categoria": "museo",
+    "nome": "Museo al Deportato",
+    "data_visita": "2024-09-22",
+    "descrizione": "",
+    "indirizzo": "41012 Carpi MO",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 44.7723,
+      "lng": 10.8857
+    }
+  },
+  {
+    "id": 72,
+    "categoria": "museo",
+    "nome": "Museo Diocesano di Arte Sacra Cardinale Rodolfo Pio",
+    "data_visita": "2024-09-22",
+    "descrizione": "",
+    "indirizzo": "41012 Carpi MO",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 44.7724,
+      "lng": 10.8859
+    }
+  },
+  {
+    "id": 73,
+    " categoria": "museo",
+    "nome": "Museo di Storia Naturale del Baldo e del Garda",
+    "data_visita": "2024-09-29",
+    "descrizione": "",
+    "indirizzo": "37018 Malcesine VR",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 45.7667,
+      "lng": 10.8167
+    }
+  },
+  {
+    "id": 74,
+    "categoria": "museo",
+    "nome": "Museo Pomposiano",
+    "data_visita": "2024-11-01",
+    "descrizione": "",
+    "indirizzo": "44021 Codigoro FE",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 44.8333,
+      "lng": 12.1833
+    }
+  },
+  {
+    "id": 75,
+    "categoria": "museo",
+    "nome": "Museo del Cervo e del Bosco della Mesola",
+    "data_visita": "2024-11-01",
+    "descrizione": "",
+    "indirizzo": "44026 Mesola FE",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 44.9167,
+      "lng": 12.2333
+    }
+  },
+  {
+    "id": 76,
+    "categoria": "museo",
+    "nome": "Manifattura dei Marinati",
+    "data_visita": "2024-11-02",
+    "descrizione": "",
+    "indirizzo": "44022 Comacchio FE",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 44.6833,
+      "lng": 12.1833
+    }
+  },
+  {
+    "id": 77,
+    "categoria": "museo",
+    "nome": "Museo Delta Antico",
+    "data_visita": "2024-11-02",
+    "descrizione": "",
+    "indirizzo": "44022 Comacchio FE",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 44.6900,
+      "lng": 12.1800
+    }
+  },
+  {
+    "id": 78,
+    "categoria": "museo",
+    "nome": "Museo di Casa Romei",
+    "data_visita": "2024-11-03",
+    "descrizione": "",
+    "indirizzo": "44121 Ferrara FE",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 44.8356,
+      "lng": 11.6250
+    }
+  },
+  {
+    "id": 79,
+    "categoria": "museo",
+    "nome": "Museo Archeologico Nazionale di Ferrara",
+    "data_visita": "2024-11-03",
+    "descrizione": "",
+    "indirizzo": "44121 Ferrara FE",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 44.8375,
+      "lng": 11.6200
+    }
+  },
+  {
+    "id": 80,
+    "categoria": "museo",
+    "nome": "Pinacoteca di Palazzo||| dei Diamanti",
+    "data_visita": "2024-11-03",
+    "descrizione": "",
+    "indirizzo": "44121 Ferrara FE",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 44.8400,
+      "lng": 11.6200
+    }
+  },
+  {
+    "id": 81,
+    "categoria": "museo",
+    "nome": "Casa di Ludovico Ariosto",
+    "data_visita": "2024-11-03",
+    "descrizione": "",
+    "indirizzo": "44121 Ferrara FE",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 44.8389,
+      "lng": 11.6167
+    }
+  },
+  {
+    "id": 82,
+    "categoria": "museo",
+    "nome": "MUSE - Museo delle Scienze",
+    "data_visita": "2024-12-15",
+    "descrizione": "",
+    "indirizzo": "38122 Trento TN",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 46.0628,
+      "lng": 11.1158
+    }
+  },
+  {
+    "id": 83,
+    "categoria": "museo",
+    "nome": "Museo Internazionale delle Torture",
+    "data_visita": "2025-01-19",
+    "descrizione": "",
+    "indirizzo": "29020 Grazzano Visconti PC",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 44.9333,
+      "lng": 9.6833
+    }
+  },
+  {
+    "id": 84,
+    "categoria": "museo",
+    "nome": "Mariposa",
+    "data_visita": "2025-01-19",
+    "descrizione": "",
+    "indirizzo": "29020 Grazzano Visconti PC",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 44.9333,
+      "lng": 9.6833
+    }
+  },
+  {
+    "id": 85,
+    "categoria": "museo",
+    "nome": "Complesso Monumentale della Pilotta",
+    "data_visita": "2025-02-02",
+    "descrizione": "",
+    "indirizzo": "43121 Parma PR",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 44.8050,
+      "lng": 10.3250
+    }
+  },
+  {
+    "id": 86,
+    "categoria": "museo",
+    "nome": "Museo Archeologico Nazionale di Parma",
+    "data_visita": "2025-02-02",
+    "descrizione": "",
+    "indirizzo": "43121 Parma PR",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 44.8050,
+      "lng": 10.3250
+    }
+  },
+  {
+    "id": 87,
+    "categoria": "museo",
+    "nome": "Galleria Nazionale di Parma",
+    "data_visita": "2025-02-02",
+    "descrizione": "",
+    "indirizzo": "43121 Parma PR",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 44.8050,
+      "lng": 10.3250
+    }
+  },
+  {
+    "id": 88,
+    "categoria": "museo",
+    "nome": "Teatro Farnese",
+    "data_visita": "2025-02-02",
+    "descrizione": "",
+    "indirizzo": "43121 Parma PR",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 44.8050,
+      "lng": 10.3250
+    }
+  },
+  {
+    "id": 89,
+    "categoria": "museo",
+    "nome": "Biblioteca Palatina",
+    "data_visita": "2025-02-02",
+    "descrizione": "",
+    "indirizzo": "43121 Parma PR",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 44.8050,
+      "lng": 10.3250
+    }
+  },
+  {
+    "id": 90,
+    "categoria": "museo",
+    "nome": "Museo Bodoniano",
+    "data_visita": "2025-02-02",
+    "descrizione": "",
+    "indirizzo": "43121 Parma PR",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 44.8050,
+      "lng": 10.3250
+    }
+  },
+  {
+    "id": 91,
+    "categoria": "museo",
+    "nome": "Parco Museo Minerario del Monte Amiata",
+    "data_visita": "2025-02-01",
+    "descrizione": "",
+    "indirizzo": "53021 Abbadia San Salvatore SI",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 42.8833,
+      "lng": 11.6833
+    }
+  },
+  {
+    "id": 92,
+    "categoria": "museo",
+    "nome": "Presepi dal Mondo",
+    "data_visita": "2025-02-04",
+    "descrizione": "",
+    "indirizzo": "53047 Sarteano SI",
+    "commento": "",
+    "tags": [],
+    "coordinate": {
+      "lat": 42.9833,
+      "lng": 11.8667
+    }
+  }
+]
