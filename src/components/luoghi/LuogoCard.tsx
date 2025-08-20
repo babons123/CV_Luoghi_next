@@ -1,3 +1,4 @@
+'use client';
 import Link from 'next/link';
 import { Luogo } from '@/types/luogo';
 import { formatDataItaliana, truncateText, capitalize, generateSlug } from '@/lib/utils';
