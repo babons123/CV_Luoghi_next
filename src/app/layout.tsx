@@ -1,14 +1,16 @@
-// src/app/layout.tsx
-import type { Metadata, Viewport } from 'next'; // Importa Viewport
+import type { Metadata, Viewport } from 'next';
+import { Inter } from 'next/font/google'; // Importiamo un font pulito e moderno
 import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
 import './globals.css';
 
-// L'oggetto Metadata principale
+// Configurazione del font
+const inter = Inter({ subsets: ['latin'] });
+
 export const metadata: Metadata = {
   title: {
     default: 'I Miei Viaggi | Portfolio Luoghi Visitati',
-    template: '%s | I Miei Viaggi', // Utile per i titoli delle pagine interne
+    template: '%s | I Miei Viaggi',
   },
   description: 'Una collezione personale dei luoghi che ho visitato, dalle meraviglie storiche ai tesori naturali',
   keywords: ['viaggi', 'turismo', 'luoghi', 'musei', 'castelli', 'parchi', 'italia'],
@@ -22,11 +24,10 @@ export const metadata: Metadata = {
   },
 };
 
-// Il nuovo oggetto Viewport
 export const viewport: Viewport = {
   width: 'device-width',
   initialScale: 1,
-  themeColor: '#667eea',
+  themeColor: '#667eea', // Un colore coerente con il design
 };
 
 export default function RootLayout({
@@ -36,7 +37,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="it">
-      <body className="bg-gray-50 text-gray-800"> {/* Aggiunto stile di base */}
+      <body className={`${inter.className} bg-gray-50 text-gray-800 antialiased`}>
         <div className="flex flex-col min-h-screen">
           <Header />
           <main className="flex-grow">
