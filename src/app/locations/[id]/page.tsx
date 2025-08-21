@@ -40,6 +40,8 @@ export default async function LocationPage({ params }: LocationPageProps) {
         <ul className="list-disc list-inside">
           <li><strong>Categoria:</strong> {location.category}</li>
           <li><strong>Data Visita:</strong> {new Date(location.visitDate).toLocaleDateString('it-IT')}</li>
+          <li><strong>Coordinate:</strong> {location.coordinates ? `${location.coordinates.lat}, ${location.coordinates.lng}` : "Non disponibili"}</li>
+          <li><strong>Tags:</strong> {location.tags && location.tags.length > 0 ? location.tags.join(', ') : "Nessun tag associato"}</li>          
           {/* Aggiungi altri dettagli che vuoi mostrare */}
         </ul>
       </div>
