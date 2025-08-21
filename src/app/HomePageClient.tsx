@@ -1,7 +1,7 @@
-// src/app/HomePageClient.tsx
-'use client'; // <-- La direttiva 'use client' va qui!
+'use client';
 
 import React, { useState } from 'react';
+import { useRouter } from 'next/navigation';
 import LocationFilters from '@/components/LocationFilters';
 import LocationList from '@/components/LocationList';
 import { Location, Tag, FilterState } from '@/types/luogo';
@@ -12,6 +12,7 @@ interface HomePageClientProps {
 }
 
 const HomePageClient: React.FC<HomePageClientProps> = ({ initialLocations, allTags }) => {
+  const router = useRouter();
   const [filters, setFilters] = useState<FilterState>({
     search: '',
     categories: [],
@@ -29,7 +30,7 @@ const HomePageClient: React.FC<HomePageClientProps> = ({ initialLocations, allTa
   
   const handleLocationClick = (location: Location) => {
     console.log('Naviga a:', `/locations/${location.id}`);
-    alert(`Hai cliccato su: ${location.name}`);
+    router.push(`/locations/${location.id}`);
   };
 
   return (
