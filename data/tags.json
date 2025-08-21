@@ -1,0 +1,37 @@
+{
+  "borghi_piu_belli": {
+    "id": "borghi_piu_belli",
+    "name": "Borghi più belli d'Italia",
+    "category": "certification",
+    "color": "#8B4513",
+    "backgroundColor": "#F5DEB3",
+    "officialLogo": "/images/stemmi/borghi-italia-stemma.png",
+    "logoAlt": "Stemma ANCI Borghi più belli d'Italia",
+    "website": "https://borghipiubelliditalia.it",
+    "prestige": 5
+  },
+  "bandiera_arancione": {
+    "id": "bandiera_arancione",
+    "name": "Bandiera Arancione TCI",
+    "category": "certification",
+    "color": "#FF4500",
+    "backgroundColor": "#FFF8DC",
+    "officialLogo": "/images/stemmi/touring-club-logo.png",
+    "logoAlt": "Logo Touring Club Italiano",
+    "prestige": 4
+  },
+  "via_francigena": {
+    "id": "via_francigena",
+    "name": "Via Francigena",
+    "category": "geographic",
+    "color": "#D2691E",
+    "backgroundColor": "#FAF0E6"
+  },
+  "medievale": {
+    "id": "medievale",
+    "name": "Medievale",
+    "category": "thematic",
+    "color": "#708090",
+    "backgroundColor": "#F0F8FF"
+  }
+}

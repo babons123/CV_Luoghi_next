@@ -1,6 +1,5 @@
 // src/components/layout/Header.tsx
 import Link from 'next/link';
-import Navigation from './Navigation';
 
 export default function Header() {
   return (
@@ -9,7 +8,6 @@ export default function Header() {
         <Link href="/" className="text-2xl font-bold text-gray-900 hover:text-indigo-600 transition-colors">
           Portfolio Luoghi
         </Link>
-        <Navigation />
       </div>
     </header>
   );
