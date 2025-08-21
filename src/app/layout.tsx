@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: {
-    default: 'I Miei Viaggi | Portfolio Luoghi Visitati',
+    default: 'CVLuoghi',
     template: '%s | I Miei Viaggi',
   },
   description: 'Una collezione personale dei luoghi che ho visitato, dalle meraviglie storiche ai tesori naturali',

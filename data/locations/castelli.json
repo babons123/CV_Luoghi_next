@@ -1,0 +1,546 @@
+[
+  {
+    "id": "castello-di-bardi",
+    "name": "Castello di Bardi",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      44.637197,
+      9.731361
+    ],
+    "visitDate": "",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "PR",
+    "municipality": "Bardi",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "torrazzo-gonzaghesco-di-commessaggio",
+    "name": "Torrazzo Gonzaghesco di Commessaggio",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      45.032713,
+      10.545431
+    ],
+    "visitDate": "",
+    "country": "Italia",
+    "region": "Lombardia",
+    "province": "MN",
+    "municipality": "Commessaggio",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "castello-di-neuschwanstein",
+    "name": "Castello di Neuschwanstein",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      47.557732,
+      10.749646
+    ],
+    "visitDate": "2015-04-04",
+    "country": "Germania",
+    "region": "",
+    "province": "",
+    "municipality": "Schwangau",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "castello-scaligero-di-lazise",
+    "name": "Castello Scaligero di Lazise",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      45.504021,
+      10.732501
+    ],
+    "visitDate": "2015-06-16",
+    "country": "Italia",
+    "region": "Veneto",
+    "province": "VR",
+    "municipality": "Lazise",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "torre-aponale",
+    "name": "Torre Aponale",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      45.884753,
+      10.840675
+    ],
+    "visitDate": "2017-08-23",
+    "country": "Italia",
+    "region": "Trentino-Alto Adige",
+    "province": "TN",
+    "municipality": "Riva del Garda",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "castello-di-castellaro-lagusello",
+    "name": "Castello di Castellaro Lagusello",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      45.373333,
+      10.635556
+    ],
+    "visitDate": "2021-05-15",
+    "country": "Italia",
+    "region": "Lombardia",
+    "province": "MN",
+    "municipality": "Castellaro Lagusello",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "castello-di-corniglio",
+    "name": "Castello di Corniglio",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      44.475917,
+      10.088411
+    ],
+    "visitDate": "2021-05-22",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "PR",
+    "municipality": "Corniglio",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "rocca-di-manerba",
+    "name": "Rocca di Manerba",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      45.5575,
+      10.5722
+    ],
+    "visitDate": "2021-05-29",
+    "country": "Italia",
+    "region": "Lombardia",
+    "province": "BS",
+    "municipality": "Manerba del Garda",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "castello-sforzesco",
+    "name": "Castello Sforzesco",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      45.47,
+      9.17861
+    ],
+    "visitDate": "2022-10-01",
+    "country": "Italia",
+    "region": "Lombardia",
+    "province": "MI",
+    "municipality": "Milano",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "castello-di-rossena",
+    "name": "Castello di Rossena",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      44.582361,
+      10.42545
+    ],
+    "visitDate": "2023-04-22",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "RE",
+    "municipality": "Canossa",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "torre-di-rossenella",
+    "name": "Torre di Rossenella",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      44.580115,
+      10.423704
+    ],
+    "visitDate": "2023-04-22",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "PR",
+    "municipality": "Corniglio",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "castello-di-canossa",
+    "name": "Castello di Canossa",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      44.576047,
+      10.455789
+    ],
+    "visitDate": "2023-04-22",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "RE",
+    "municipality": "Canossa",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "castelvecchio",
+    "name": "CastelVecchio",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      45.44,
+      10.988
+    ],
+    "visitDate": "2023-10-05",
+    "country": "Italia",
+    "region": "Veneto",
+    "province": "VR",
+    "municipality": "Verona",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "torre-ghirlandina",
+    "name": "Torre Ghirlandina",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      44.646389,
+      10.926111
+    ],
+    "visitDate": "2023-12-03",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "MO",
+    "municipality": "Modena",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "castello-di-bianello",
+    "name": "Castello di Bianello",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      44.6275,
+      10.4828
+    ],
+    "visitDate": "2024-05-26",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "RE",
+    "municipality": "Quattro Castella",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "rocca-viscontea",
+    "name": "Rocca Viscontea",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      44.850556,
+      9.867611
+    ],
+    "visitDate": "2024-06-07",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "PC",
+    "municipality": "Castell'Arquato",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "mastio-di-vigoleno",
+    "name": "Mastio di Vigoleno",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      44.81666,
+      9.901111
+    ],
+    "visitDate": "2024-06-07",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "PC",
+    "municipality": "Vigoleno",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "castello-di-tabiano",
+    "name": "Castello di Tabiano",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      44.79275,
+      10.02305
+    ],
+    "visitDate": "2024-06-07",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "PR",
+    "municipality": "Tabiano",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "torre-di-san-martino-della-battaglia",
+    "name": "Torre di San Martino della Battaglia",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      45.425211,
+      10.602472
+    ],
+    "visitDate": "2024-06-16",
+    "country": "Italia",
+    "region": "Lombardia",
+    "province": "BS",
+    "municipality": "San Martino della Battaglia",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "rocca-di-solferino",
+    "name": "Rocca di Solferino",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      45.371711,
+      10.563833
+    ],
+    "visitDate": "2024-06-16",
+    "country": "Italia",
+    "region": "Lombardia",
+    "province": "MN",
+    "municipality": "Solferino",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "castello-di-orazio-gonzaga",
+    "name": "Castello di Orazio Gonzaga",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      45.367,
+      10.55
+    ],
+    "visitDate": "2024-06-16",
+    "country": "Italia",
+    "region": "Lombardia",
+    "province": "MN",
+    "municipality": "Solferino",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "castello-di-introd",
+    "name": "Castello di Introd",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      45.6913389,
+      7.1864028
+    ],
+    "visitDate": "2024-07-02",
+    "country": "Italia",
+    "region": "Valle d'Aosta",
+    "province": "AO",
+    "municipality": "Introd",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "castello-di-saint-pierre",
+    "name": "Castello di Saint-Pierre",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      45.710251,
+      7.227239
+    ],
+    "visitDate": "2024-07-03",
+    "country": "Italia",
+    "region": "Valle d'Aosta",
+    "province": "AO",
+    "municipality": "Saint-Pierre",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "castello-di-fenis",
+    "name": "Castello di Fénis",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      45.737365,
+      7.489551
+    ],
+    "visitDate": "2024-07-07",
+    "country": "Italia",
+    "region": "Valle d'Aosta",
+    "province": "AO",
+    "municipality": "Fénis",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "castel-savoia",
+    "name": "Castel Savoia",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      45.76417,
+      7.82667
+    ],
+    "visitDate": "2024-07-08",
+    "country": "Italia",
+    "region": "Valle d'Aosta",
+    "province": "AO",
+    "municipality": "Gressoney-Saint-Jean",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "castello-di-torrechiara",
+    "name": "Castello di Torrechiara",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      44.65556,
+      10.27361
+    ],
+    "visitDate": "2024-09-14",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "PR",
+    "municipality": "Torrechiara",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "castello-scaligero-di-malcesine",
+    "name": "Castello Scaligero di Malcesine",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      45.766194,
+      10.8085
+    ],
+    "visitDate": "2024-09-29",
+    "country": "Italia",
+    "region": "Veneto",
+    "province": "VR",
+    "municipality": "Malcesine",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "castello-di-mesola",
+    "name": "Castello di Mesola",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      44.923222,
+      12.229806
+    ],
+    "visitDate": "2024-11-01",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "FE",
+    "municipality": "Mesola",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "castello-estense-di-ferrara",
+    "name": "Castello Estense di Ferrara",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      44.8375,
+      11.61944
+    ],
+    "visitDate": "2024-11-03",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "FE",
+    "municipality": "Ferrara",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "reggia-di-colorno",
+    "name": "Reggia di Colorno",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      44.93,
+      10.37694
+    ],
+    "visitDate": "2025-04-26",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "PR",
+    "municipality": "Colorno",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "fortezza-di-radicofani",
+    "name": "Fortezza di Radicofani",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      42.898517,
+      11.768686
+    ],
+    "visitDate": "2025-05-02",
+    "country": "Italia",
+    "region": "Toscana",
+    "province": "SI",
+    "municipality": "Radicofani",
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "id": "castello-di-sarteano",
+    "name": "Castello di Sarteano",
+    "description": "",
+    "category": "castelli",
+    "coordinates": [
+      42.983,
+      11.867
+    ],
+    "visitDate": "2025-05-04",
+    "country": "Italia",
+    "region": "Toscana",
+    "province": "SI",
+    "municipality": "Sarteano",
+    "tags": [],
+    "notes": ""
+  }
+]
