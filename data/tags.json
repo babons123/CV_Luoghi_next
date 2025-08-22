@@ -5,7 +5,7 @@
     "category": "certification",
     "color": "#8B4513",
     "backgroundColor": "#F5DEB3",
-    "officialLogo": "/images/stemmi/borghi-italia-stemma.png",
+    "officialLogo": "/images/borghi-piu-belli-ditalia-logo.jpg",
     "logoAlt": "Stemma ANCI Borghi più belli d'Italia",
     "website": "https://borghipiubelliditalia.it",
     "prestige": 5
@@ -16,7 +16,7 @@
     "category": "certification",
     "color": "#FF4500",
     "backgroundColor": "#FFF8DC",
-    "officialLogo": "/images/stemmi/touring-club-logo.png",
+    "officialLogo": "/images/bandiera-arancione-logo.png",
     "logoAlt": "Logo Touring Club Italiano",
     "prestige": 4
   },
