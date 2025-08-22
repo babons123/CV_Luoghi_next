@@ -4,6 +4,8 @@ import React, { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import LocationFilters from '@/components/LocationFilters';
 import LocationList from '@/components/LocationList';
+import CreateLocationForm from '@/components/CreateLocationForm';
+import CreateTagForm from '@/components/CreateTagForm';
 import { Location, Tag, FilterState } from '@/types/luogo';
 
 interface HomePageClientProps {
@@ -24,13 +26,27 @@ const HomePageClient: React.FC<HomePageClientProps> = ({ initialLocations, allTa
     dateTo: '',
   });
 
+  // stati per aprire/chiudere i modali
+  const [showLocationForm, setShowLocationForm] = useState(false);
+  const [showTagForm, setShowTagForm] = useState(false);
+
   const handleFiltersChange = (newFilters: FilterState) => {
     setFilters(newFilters);
   };
   
   const handleLocationClick = (location: Location) => {
-    console.log('Naviga a:', `/locations/${location.id}`);
     router.push(`/locations/${location.id}`);
+  };
+
+  // salvataggi (puoi integrarli con la logica di CreationManager se vuoi)
+  const handleLocationSave = (location: Location) => {
+    console.log('Nuovo luogo salvato:', location);
+    setShowLocationForm(false);
+  };
+
+  const handleTagSave = (tag: Tag) => {
+    console.log('Nuovo tag salvato:', tag);
+    setShowTagForm(false);
   };
 
   return (
@@ -40,8 +56,8 @@ const HomePageClient: React.FC<HomePageClientProps> = ({ initialLocations, allTa
         tags={allTags}
         filters={filters}
         onFiltersChange={handleFiltersChange}
-        onCreateLocation={() => alert('Funzione "Crea Luogo" non implementata.')}
-        onCreateTag={() => alert('Funzione "Crea Tag" non implementata.')}
+        onCreateLocation={() => setShowLocationForm(true)}  // usa i bottoni già presenti
+        onCreateTag={() => setShowTagForm(true)}
       />
       
       <LocationList
@@ -50,6 +66,21 @@ const HomePageClient: React.FC<HomePageClientProps> = ({ initialLocations, allTa
         filters={filters}
         onLocationClick={handleLocationClick}
       />
+
+      {/* modali dei form */}
+      {showLocationForm && (
+        <CreateLocationForm
+          onSave={handleLocationSave}
+          onCancel={() => setShowLocationForm(false)}
+        />
+      )}
+
+      {showTagForm && (
+        <CreateTagForm
+          onSave={handleTagSave}
+          onCancel={() => setShowTagForm(false)}
+        />
+      )}
     </div>
   );
 };
