@@ -11,6 +11,10 @@ export interface Tag {
   website?: string;
   prestige?: number;
 }
+export interface EatenFoodItem {
+  name: string;
+  subItems?: EatenFoodItem[]; // Permette di avere sotto-liste ricorsive
+}
 
 export interface Location {
   id: string;
@@ -26,6 +30,7 @@ export interface Location {
   province: string;
   
   // Campi opzionali
+  address?: string;
   municipality?: string;
   photos?: string[];
   tags?: string[]; // Array di ID di Tag
@@ -42,6 +47,7 @@ export interface Location {
   // Ristoranti
   cucina?: string;
   prezzo?: '€' | '€€' | '€€€';
+  eatenFoods?: EatenFoodItem[]; // Array di oggetti EatenFoodItem, che supportano la nidificazione
 
   // Aggiunto per compatibilità con il tuo LocationCard
   drivePhotosUrl?: string;

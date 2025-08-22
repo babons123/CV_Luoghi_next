@@ -1,0 +1,2347 @@
+[
+  {
+    "id": "231",
+    "name": "Antica Locanda ai Portici dal Turco",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      45.0683,
+      10.5822
+    ],
+    "visitDate": "2021-02-14",
+    "country": "Italia",
+    "region": "Lombardia",
+    "province": "MN",
+    "municipality": "Gazzuolo",
+    "address": "46010 Gazzuolo MN",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Tartare di Tonno Rosso con Maionese al Caffè"
+      },
+      {
+        "name": "Tartare di Branzino con Riduzione di Frutto della Passione"
+      },
+      {
+        "name": "Spaghetti Neri Felicetti con Sugo di Ricciola, Lime e Nocciole Croccanti"
+      },
+      {
+        "name": "Paccheri al Ragout di Moscardini"
+      },
+      {
+        "name": "Gamberi in Tempura"
+      },
+      {
+        "name": "Trancio di Tonno ai Ferri in Crosta di Sesamo"
+      },
+      {
+        "name": "Sorbetto al Pistacchio e Nocciole"
+      },
+      {
+        "name": "Fragole e Panna"
+      }
+    ]
+  },
+  {
+    "id": "232",
+    "name": "La Casa dello Speck",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      45.1603,
+      10.7978
+    ],
+    "visitDate": "2021-05-01",
+    "country": "Italia",
+    "region": "Lombardia",
+    "province": "MN",
+    "municipality": "Mantova",
+    "address": "46100 Mantova MN",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Selezione di Salumi",
+        "subItems": [
+          {
+            "name": "Speck"
+          },
+          {
+            "name": "Speck Cotto"
+          },
+          {
+            "name": "Speck di Filetto"
+          },
+          {
+            "name": "Fiocco alle Erbe Alpine"
+          },
+          {
+            "name": "Salame di Capriolo"
+          },
+          {
+            "name": "Kaminwurz (Salamino Manzo e Maiale Affumicato)"
+          }
+        ]
+      },
+      {
+        "name": "Bretzel"
+      },
+      {
+        "name": "Onion Rings"
+      },
+      {
+        "name": "Hamburger della Casa (200 g Scottona, Speck, Crema di Radicchio, Formaggio, Cavolo Cappuccio, Cipolla Grigliata, Maionese)"
+      },
+      {
+        "name": "Maccheroncini con Stracotto e Grana"
+      },
+      {
+        "name": "Wurstel grigliati Meraner e Crauti"
+      },
+      {
+        "name": "Costine di Maiale alle Erbe Alpine"
+      }
+    ]
+  },
+  {
+    "id": "233",
+    "name": "Vecchio Mulino",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      44.6334,
+      10.2914
+    ],
+    "visitDate": "2021-05-22",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "PR",
+    "municipality": "Stadirano",
+    "address": "43037 Stadirano PR",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Antipasto Polenta e Salumi"
+      },
+      {
+        "name": "Tagliata di Black Angus all’Aceto Balsamico"
+      }
+    ]
+  },
+  {
+    "id": "234",
+    "name": "Ranch Balla coi Lupi",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      44.4134,
+      10.281
+    ],
+    "visitDate": "2021-06-28",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "RE",
+    "municipality": "Ramiseto",
+    "address": "42032 Ramiseto RE",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Tortelli Porri e Patate"
+      },
+      {
+        "name": "Tagliatelle ai Porcini"
+      },
+      {
+        "name": "Lonza di Maiale all’Aceto Balsamico"
+      },
+      {
+        "name": "Scaloppine ai Porcini"
+      },
+      {
+        "name": "Patate al Forno"
+      }
+    ]
+  },
+  {
+    "id": "235",
+    "name": "Bar Ristorante Affittacamere Da Pierino",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      45.9469,
+      10.6207
+    ],
+    "visitDate": "2021-07-23",
+    "country": "Italia",
+    "region": "Trentino-Alto Adige",
+    "province": "TN",
+    "municipality": "Daone",
+    "address": "38091 Daone TN",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Tagliere di Carne Salada con Chiodini, Rucola e Scaglie di Trentingrana"
+      },
+      {
+        "name": "Tagliatelle al Ragù di Cervo"
+      },
+      {
+        "name": "Tortelli alla Fonduta di Formaggi"
+      }
+    ]
+  },
+  {
+    "id": "236",
+    "name": "A Taverna Intru u Vicu",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      39.1621,
+      16.0835
+    ],
+    "visitDate": "2021-07-30",
+    "country": "Italia",
+    "region": "Calabria",
+    "province": "CS",
+    "municipality": "Belmonte Calabro",
+    "address": "87033 Belmonte Calabro CS",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Bistecca di Pomodoro di Belmonte"
+      },
+      {
+        "name": "Paccheri al Pesce Spada con Pomodorini e Prezzemolo"
+      },
+      {
+        "name": "Linguine Seppia e Limone"
+      },
+      {
+        "name": "Fritto Misto di Paranza"
+      }
+    ]
+  },
+  {
+    "id": "237",
+    "name": "VAB - Villaggio Albergo Belmonte",
+    "description": "(Martimonio Daniele e Luisa)",
+    "category": "ristorante",
+    "coordinates": [
+      39.1621,
+      16.0835
+    ],
+    "visitDate": "2021-07-31",
+    "country": "Italia",
+    "region": "Calabria",
+    "province": "CS",
+    "municipality": "Belmonte Calabro",
+    "address": "87033 Belmonte Calabro CS",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Insalata di Mare"
+      },
+      {
+        "name": "Cozze Gratinate"
+      },
+      {
+        "name": "Cupola di Salmone"
+      },
+      {
+        "name": "Polpa di Dentice, Melone e Pinoli"
+      },
+      {
+        "name": "Margherite di Pesce Spada, Melanzane e Pinoli"
+      },
+      {
+        "name": "Risotto Scampi e Pistacchi"
+      },
+      {
+        "name": "Spigola in Crosta di Zucchine"
+      },
+      {
+        "name": "Pesce Spada al Pane Profumato"
+      },
+      {
+        "name": "Gamberoni Grigliati al Salmoriglio"
+      },
+      {
+        "name": "Insalata Fantasia"
+      },
+      {
+        "name": "Frittura Mista"
+      },
+      {
+        "name": "Composé di Frutta con Perla di Gelato"
+      },
+      {
+        "name": "Torta Nuziale"
+      }
+    ]
+  },
+  {
+    "id": "238",
+    "name": "Ferr’e Fuoco Steakhouse",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      39.1342,
+      16.0756
+    ],
+    "visitDate": "2021-08-01",
+    "country": "Italia",
+    "region": "Calabria",
+    "province": "CS",
+    "municipality": "Amantea",
+    "address": "87032 Amantea CS",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Bombette al Pistacchio di Bronte"
+      },
+      {
+        "name": "Tagliata di Black Angus"
+      }
+    ]
+  },
+  {
+    "id": "239",
+    "name": "Rifugio Lagdei",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      45.1084,
+      10.0381
+    ],
+    "visitDate": "2021-08-15",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "PR",
+    "municipality": "Bosco",
+    "address": "43021 Bosco PR",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Tagliere di Salumi Misti",
+        "subItems": [
+          {
+            "name": "Prosciutto Crudo"
+          },
+          {
+            "name": "Coppa"
+          },
+          {
+            "name": "Salame di Felino"
+          },
+          {
+            "name": "Pancetta"
+          }
+        ]
+      },
+      {
+        "name": "Pappardelle al Ragù di Cervo"
+      },
+      {
+        "name": "Pappardelle ai Porcini"
+      },
+      {
+        "name": "Polenta con Gorgonzola, Porcini, Salsiccia"
+      },
+      {
+        "name": "Lonza di Maiale al Forno"
+      },
+      {
+        "name": "Patate al Forno"
+      }
+    ]
+  },
+  {
+    "id": "240",
+    "name": "Ristorante Ghanese Akwaaba",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      44.9898,
+      10.4206
+    ],
+    "visitDate": "2021-09-11",
+    "country": "Italia",
+    "region": "Lombardia",
+    "province": "CR",
+    "municipality": "Casalmaggiore",
+    "address": "26041 Casalmaggiore CR",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Riso con Verdure e Pollo Fritto"
+      },
+      {
+        "name": "Riso con Verdure e Pesce Fritto"
+      },
+      {
+        "name": "Platano Fritto Dolce"
+      }
+    ]
+  },
+  {
+    "id": "241",
+    "name": "Villa Cavriani",
+    "description": "(40 Anni Croce Verde Mantova)",
+    "category": "ristorante",
+    "coordinates": [
+      45.1351,
+      10.9545
+    ],
+    "visitDate": "2021-09-21",
+    "country": "Italia",
+    "region": "Lombardia",
+    "province": "MN",
+    "municipality": "Roncoferraro",
+    "address": "46037 Roncoferraro MN",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Ravioli di Patate con Prosciutto della Foresta Nera e Timo"
+      },
+      {
+        "name": "Tagliata di Manzo con Filangè di Verdure ai Ferri"
+      },
+      {
+        "name": "Mousse ai Frutti Rossi"
+      }
+    ]
+  },
+  {
+    "id": "242",
+    "name": "Ristorante La Primoteca",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      46.3167,
+      11.6
+    ],
+    "visitDate": "2021-09-24",
+    "country": "Italia",
+    "region": "Trentino-Alto Adige",
+    "province": "TN",
+    "municipality": "Predazzo",
+    "address": "38037 Predazzo TN",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Tagliere di Salumi e Formaggi Misti con Giardiniera",
+        "subItems": [
+          {
+            "name": "Prosciutto Crudo"
+          },
+          {
+            "name": "Prosciutto Cotto"
+          },
+          {
+            "name": "Bresaola della Valtellina"
+          },
+          {
+            "name": "Speck"
+          },
+          {
+            "name": "Salame"
+          },
+          {
+            "name": "Pancetta"
+          },
+          {
+            "name": "Asiago"
+          }
+        ]
+      },
+      {
+        "name": "Bruschetta Bresaola e Porcini"
+      },
+      {
+        "name": "Canederli al Burro e Salvia"
+      },
+      {
+        "name": "Tagliatelle al Ragù di Capriolo"
+      }
+    ]
+  },
+  {
+    "id": "243",
+    "name": "Ristorante Thai Time Out",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      45.1603,
+      10.7978
+    ],
+    "visitDate": "2021-10-30",
+    "country": "Italia",
+    "region": "Lombardia",
+    "province": "MN",
+    "municipality": "Mantova",
+    "address": "46100 Mantova MN",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Involtini Primavera con Salsa Agrodolce"
+      },
+      {
+        "name": "Baozi"
+      },
+      {
+        "name": "Tagliatelle di Riso con Manzo"
+      },
+      {
+        "name": "Pad Thai con Salsa Thai"
+      }
+    ]
+  },
+  {
+    "id": "244",
+    "name": "Osteria La Bajona",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      46.4672,
+      10.3701
+    ],
+    "visitDate": "2021-12-02",
+    "country": "Italia",
+    "region": "Lombardia",
+    "province": "SO",
+    "municipality": "Bormio",
+    "address": "23032 Bormio SO",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Tagliere con Bresaola della Valtellina e Slinzega"
+      },
+      {
+        "name": "Tortelli di Brasato con Lamponi Disidratati"
+      },
+      {
+        "name": "Tagliatelle Salsiccia e Porcini"
+      },
+      {
+        "name": "Tiramisù"
+      },
+      {
+        "name": "Creme Brulée"
+      }
+    ]
+  },
+  {
+    "id": "245",
+    "name": "Ristorante Gallo Cedrone",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      46.4672,
+      10.3701
+    ],
+    "visitDate": "2021-12-03",
+    "country": "Italia",
+    "region": "Lombardia",
+    "province": "SO",
+    "municipality": "Bormio",
+    "address": "23030 Bormio SO",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Tris di Primi",
+        "subItems": [
+          {
+            "name": "Pizzoccheri della Valtellina"
+          },
+          {
+            "name": "Sciatt"
+          },
+          {
+            "name": "Malfatti"
+          }
+        ]
+      },
+      {
+        "name": "Tagliatelle al Ragù di Cervo"
+      },
+      {
+        "name": "Costine di Cervo con Patatine Fritte"
+      }
+    ]
+  },
+  {
+    "id": "246",
+    "name": "Itaka Greek Food Parma",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      44.8015,
+      10.328
+    ],
+    "visitDate": "2022-02-05",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "PR",
+    "municipality": "Parma",
+    "address": "43122 Parma PR",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Feta Greca D.O.P."
+      },
+      {
+        "name": "Salsa Tzatziki"
+      },
+      {
+        "name": "Salsa Kopanisti"
+      },
+      {
+        "name": "Kotopulo Merida"
+      },
+      {
+        "name": "Ghiros Chirinos"
+      }
+    ]
+  },
+  {
+    "id": "247",
+    "name": "Osteria delle Cinque Lire",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      45.1226,
+      10.893
+    ],
+    "visitDate": "2022-03-24",
+    "country": "Italia",
+    "region": "Lombardia",
+    "province": "MN",
+    "municipality": "Pontemerlano",
+    "address": "46100 Pontemerlano MN",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Bruschetta con Bufala"
+      },
+      {
+        "name": "Maccheroncini con Stracotto di Asino"
+      },
+      {
+        "name": "Rigatoni al Torchio con Ragù di Maialino e Finferli"
+      },
+      {
+        "name": "Bocconcini di Pollo al Curry con Burratina"
+      }
+    ]
+  },
+  {
+    "id": "248",
+    "name": "Trattoria Pizzeria La Sevra",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      44.7174,
+      10.2321
+    ],
+    "visitDate": "2022-04-15",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "PR",
+    "municipality": "Sala Baganza",
+    "address": "43038 Sala Baganza PR",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Tagliere di Salumi Misti",
+        "subItems": [
+          {
+            "name": "Prosciutto Crudo"
+          },
+          {
+            "name": "Coppa"
+          },
+          {
+            "name": "Salame"
+          },
+          {
+            "name": "Pancetta"
+          },
+          {
+            "name": "Spalla Cotta"
+          }
+        ]
+      },
+      {
+        "name": "Pappardelle al Cinghiale"
+      },
+      {
+        "name": "Tortelli di Prosciutto con Fonduta di Formaggi"
+      }
+    ]
+  },
+  {
+    "id": "249",
+    "name": "Ristorante OsteRiva",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      45.8881,
+      10.8445
+    ],
+    "visitDate": "2022-06-18",
+    "country": "Italia",
+    "region": "Trentino-Alto Adige",
+    "province": "TN",
+    "municipality": "Riva del Garda",
+    "address": "38066 Riva del Garda TN",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Tagliere di Salumi e Formaggi",
+        "subItems": [
+          {
+            "name": "Giardiniera"
+          },
+          {
+            "name": "Speck"
+          },
+          {
+            "name": "Salame"
+          },
+          {
+            "name": "Pancetta"
+          }
+        ]
+      },
+      {
+        "name": "Tagliatelle Salsiccia e Funghi"
+      },
+      {
+        "name": "Bigoli con Pasta di Lucanica e Pomodorini"
+      }
+    ]
+  },
+  {
+    "id": "250",
+    "name": "Osteria dell’Oca",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      45.1603,
+      10.7978
+    ],
+    "visitDate": "2022-06-24",
+    "country": "Italia",
+    "region": "Lombardia",
+    "province": "MN",
+    "municipality": "Mantova",
+    "address": "46100 Mantova MN",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Tagliere di Salumi, Formaggi e Mostarda"
+      },
+      {
+        "name": "Polenta con Gras Pistà"
+      },
+      {
+        "name": "Tronchetti con l’Asino"
+      },
+      {
+        "name": "Bigoli alla Carrettiera"
+      }
+    ]
+  },
+  {
+    "id": "251",
+    "name": "Motonave Andes",
+    "description": "(OscarGreen Lombardia 2022)",
+    "category": "ristorante",
+    "coordinates": [
+      45.1603,
+      10.7978
+    ],
+    "visitDate": "2022-09-16",
+    "country": "Italia",
+    "region": "Lombardia",
+    "province": "MN",
+    "municipality": "Mantova",
+    "address": "46100 Mantova MN",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Salumi della Tradizione, Formaggi e Mostarde, Torta Salata alle Verdure"
+      },
+      {
+        "name": "Lasagne al Forno alla Teofilo (Zucca e Salsiccia)"
+      },
+      {
+        "name": "Pollo alla Bartolomeo Stefani"
+      },
+      {
+        "name": "Torta Sbrisolona con Zabaione"
+      }
+    ]
+  },
+  {
+    "id": "252",
+    "name": "Villa Rosa dei Venti",
+    "description": "(Matrimonio Roman e Alessia)",
+    "category": "ristorante",
+    "coordinates": [
+      44.5517,
+      10.7856
+    ],
+    "visitDate": "2022-09-24",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "MO",
+    "municipality": "San Michele dei Mucchietti",
+    "address": "41048 San Michele dei Mucchietti MO",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Risotto ai Fiori di Zucchine e Pistilli di Zafferano"
+      },
+      {
+        "name": "Fagottino al Radicchio Trevigiano e Scaglie di Parmigiano Reggiano in Salsa Parmentier"
+      },
+      {
+        "name": "Controfiletto di Manzo Argentino alla Colonnata"
+      },
+      {
+        "name": "Patate Novelle al Forno"
+      }
+    ]
+  },
+  {
+    "id": "253",
+    "name": "Enjoy - Ristorante Pizzeria Bistrot",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      42.9847,
+      12.4176
+    ],
+    "visitDate": "2022-12-01",
+    "country": "Italia",
+    "region": "Umbria",
+    "province": "PG",
+    "municipality": "Deruta",
+    "address": "06053 Deruta PG",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Degustazione Formaggi Locali con Miele e Confetture"
+      },
+      {
+        "name": "Pizza Porcini, Salsiccia, Tartufo Nero"
+      },
+      {
+        "name": "Mezze Maniche Panna Rosmarino e Salsiccia"
+      }
+    ]
+  },
+  {
+    "id": "254",
+    "name": "Trattoria Da Piero e Silvana",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      42.7819,
+      12.4066
+    ],
+    "visitDate": "2022-12-02",
+    "country": "Italia",
+    "region": "Umbria",
+    "province": "PG",
+    "municipality": "Todi",
+    "address": "06059 Todi PG",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Tagliere di Cacciagione",
+        "subItems": [
+          {
+            "name": "Salame e Salsiccia di Cinghiale"
+          },
+          {
+            "name": "Bresaola di Cervo"
+          },
+          {
+            "name": "Salame di Cervo"
+          },
+          {
+            "name": "Porchetta di Maiale"
+          }
+        ]
+      },
+      {
+        "name": "Crostino con Pecorino, Miele e Caffè in Polvere"
+      },
+      {
+        "name": "Penne alla Norcina"
+      },
+      {
+        "name": "Bigoli al Cinchiale"
+      }
+    ]
+  },
+  {
+    "id": "255",
+    "name": "Ristorante Il Cantinone",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      43.1122,
+      12.3889
+    ],
+    "visitDate": "2022-12-03",
+    "country": "Italia",
+    "region": "Umbria",
+    "province": "PG",
+    "municipality": "Perugia",
+    "address": "06123 Perugia PG",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Maltagliati al Ragù Bianco di Cortile"
+      },
+      {
+        "name": "Pappardelle al Capriolo"
+      },
+      {
+        "name": "Polpette di Chianina al Sugo Rosso"
+      }
+    ]
+  },
+  {
+    "id": "256",
+    "name": "Ristorante Greco Kalimera",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      45.2203,
+      10.7572
+    ],
+    "visitDate": "2022-12-09",
+    "country": "Italia",
+    "region": "Lombardia",
+    "province": "MN",
+    "municipality": "Marmirolo",
+    "address": "46045 Marmirolo MN",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Giros"
+      },
+      {
+        "name": "Salsa Tzatziki"
+      },
+      {
+        "name": "Steik alla Griglia"
+      },
+      {
+        "name": "Dolmathes"
+      }
+    ]
+  },
+  {
+    "id": "257",
+    "name": "Ristorante Indiano Risto Haweli",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      45.1529,
+      10.6509
+    ],
+    "visitDate": "2023-02-03",
+    "country": "Italia",
+    "region": "Lombardia",
+    "province": "MN",
+    "municipality": "Castellucchio",
+    "address": "46014 Castellucchio MN",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Naan Cipolla"
+      },
+      {
+        "name": "Naan Cumino"
+      },
+      {
+        "name": "Roti (Naan Integrale)"
+      },
+      {
+        "name": "Aloo Naan (Patate)"
+      },
+      {
+        "name": "Kesar Pilao"
+      },
+      {
+        "name": "Jeera Rice"
+      },
+      {
+        "name": "Palak Dal"
+      },
+      {
+        "name": "Chili Chicken"
+      },
+      {
+        "name": "Lemon Chicken"
+      },
+      {
+        "name": "Gulab Jamun"
+      }
+    ]
+  },
+  {
+    "id": "258",
+    "name": "Ristorante il Monte",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      44.7783,
+      9.6086
+    ],
+    "visitDate": "2023-04-22",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "RE",
+    "municipality": "Bettola",
+    "address": "42030 Bettola RE",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Tagliere di Salumi della Val D’Enza",
+        "subItems": [
+          {
+            "name": "Prosciutto Crudo"
+          },
+          {
+            "name": "Culatta"
+          },
+          {
+            "name": "Speck"
+          },
+          {
+            "name": "Pancetta"
+          }
+        ]
+      },
+      {
+        "name": "Pappardelle al Capriolo"
+      },
+      {
+        "name": "Tortelli di Patate, Porri e Maggiorana con Sugo di Nonna Stella"
+      },
+      {
+        "name": "Tiramisù"
+      },
+      {
+        "name": "Crostata di Prugne"
+      }
+    ]
+  },
+  {
+    "id": "259",
+    "name": "Ristorante Baci",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      46.0403,
+      10.0152
+    ],
+    "visitDate": "2023-06-17",
+    "country": "Italia",
+    "region": "Lombardia",
+    "province": "BG",
+    "municipality": "Valbondione",
+    "address": "24020 Valbondione BG",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Tagliere di Salumi",
+        "subItems": [
+          {
+            "name": "Prosciutto Cotto"
+          },
+          {
+            "name": "Prosciutto Crudo"
+          },
+          {
+            "name": "Salame"
+          },
+          {
+            "name": "Coppa"
+          },
+          {
+            "name": "Mortadella"
+          }
+        ]
+      },
+      {
+        "name": "Casoncelli alla Bergamasca"
+      },
+      {
+        "name": "Pappardelle al Ragù Casereccio di Cervo"
+      }
+    ]
+  },
+  {
+    "id": "260",
+    "name": "Rifugio Monte Orsaro",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      44.3833,
+      10.1667
+    ],
+    "visitDate": "2023-07-09",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "RE",
+    "municipality": "Monteorsaro",
+    "address": "42030 Monteorsaro RE",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Tortelli del Rifugio (Ripieni di Patate e Salamella Conditi con Soffritto di Cipolla Bianca)"
+      },
+      {
+        "name": "Pappardelle al Ragù di Cinghiale"
+      },
+      {
+        "name": "Integrali al Ragù di Pecora"
+      }
+    ]
+  },
+  {
+    "id": "261",
+    "name": "Chalet Novezza",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      45.7167,
+      10.9333
+    ],
+    "visitDate": "2023-08-12",
+    "country": "Italia",
+    "region": "Veneto",
+    "province": "VR",
+    "municipality": "Ferrara di Monte Baldo",
+    "address": "37020 Ferrara di Monte Baldo VR",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Canederli Burro e Salvia"
+      },
+      {
+        "name": "Tagliatelle al Tartufo Nero del Baldo"
+      },
+      {
+        "name": "Torta di Grano Saraceno con Mirtilli e Panna"
+      }
+    ]
+  },
+  {
+    "id": "262",
+    "name": "Ristorante Stella Alpina",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      46.0167,
+      10.3333
+    ],
+    "visitDate": "2023-08-19",
+    "country": "Italia",
+    "region": "Lombardia",
+    "province": "BS",
+    "municipality": "Saviore",
+    "address": "25040 Saviore BS",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Carne Salata con Noci, Trentingrana e Rucola"
+      },
+      {
+        "name": "Formaggio alla Piastra"
+      },
+      {
+        "name": "Tagliatelle ai Porcini"
+      },
+      {
+        "name": "Scrigni ai Funghi Porcini"
+      }
+    ]
+  },
+  {
+    "id": "263",
+    "name": "Ristorante Pizzeria Il Leone",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      46.7,
+      12.35
+    ],
+    "visitDate": "2023-08-26",
+    "country": "Italia",
+    "region": "Trentino-Alto Adige",
+    "province": "BZ",
+    "municipality": "Sesto",
+    "address": "39030 Sesto BZ",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Tagliere di Salumi Tirolesi",
+        "subItems": [
+          {
+            "name": "Speck"
+          },
+          {
+            "name": "Prosciutto Crudo Affumicato"
+          },
+          {
+            "name": "Salame"
+          },
+          {
+            "name": "Coppa Affumicata"
+          },
+          {
+            "name": "Salamini da Passeggio (Affumicato, Piccante)"
+          }
+        ]
+      },
+      {
+        "name": "Formaggi Tirolesi"
+      },
+      {
+        "name": "Piatto Unico Tirolese (Canederli, Crauti, Salsiccia)"
+      },
+      {
+        "name": "Ravioli con Pomodri Secchi e Speck"
+      }
+    ]
+  },
+  {
+    "id": "264",
+    "name": "Ristorante San Martino",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      44.5667,
+      10.1667
+    ],
+    "visitDate": "2023-09-10",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "PR",
+    "municipality": "Palanzano",
+    "address": "43025 Palanzano PR",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Tagliere di Salumi Misti",
+        "subItems": [
+          {
+            "name": "Prosciutto Crudo"
+          },
+          {
+            "name": "Coppa"
+          },
+          {
+            "name": "Salame di Felino"
+          },
+          {
+            "name": "Pancetta"
+          }
+        ]
+      },
+      {
+        "name": "Tortelli alla Palanzanese (Patate e Erbette)"
+      },
+      {
+        "name": "Ravioli Porcini e Tartufo"
+      },
+      {
+        "name": "Tagliatelle al Cinghhiale"
+      },
+      {
+        "name": "Tartufo Bianco (Dessert)"
+      }
+    ]
+  },
+  {
+    "id": "265",
+    "name": "Rifugio Bocca di Selva",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      45.7,
+      11.0
+    ],
+    "visitDate": "2023-09-24",
+    "country": "Italia",
+    "region": "Veneto",
+    "province": "VR",
+    "municipality": "Loc. Bocca di Selva",
+    "address": "37021 Loc. Bocca di Selva, VR",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Gnocchi di Malga Burro e Salvia"
+      },
+      {
+        "name": "Maccheroncini al Ragù Bianco di Cortile"
+      },
+      {
+        "name": "Bratwurst con Senape, Crauti e Patate al Forno"
+      }
+    ]
+  },
+  {
+    "id": "266",
+    "name": "Agriturismo Corte Barco",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      45.2203,
+      10.7572
+    ],
+    "visitDate": "2023-10-29",
+    "country": "Italia",
+    "region": "Lombardia",
+    "province": "MN",
+    "municipality": "Corte Barco - Marmirolo",
+    "address": "46045 Corte Barco - Marmirolo MN",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Tagliere Misto Salumi e Formaggi",
+        "subItems": [
+          {
+            "name": "Salame Mantovano"
+          },
+          {
+            "name": "Prosciutto Crudo"
+          },
+          {
+            "name": "Fiocchetto"
+          },
+          {
+            "name": "Bresaola con Scamorza"
+          },
+          {
+            "name": "Pancetta"
+          },
+          {
+            "name": "Formaggi Vaccini (Affumicato e Stagionato)"
+          }
+        ]
+      },
+      {
+        "name": "Maccheroncini con Stracotto di Bufala"
+      },
+      {
+        "name": "Tortelli di Asino"
+      },
+      {
+        "name": "Caserecce ai Porcini e granella di Nocciole"
+      },
+      {
+        "name": "Mezzi Paccheri con Sugo di Mascaprone, Castagne e Porcini"
+      },
+      {
+        "name": "Tagliata di Bufala con Patate al Forno"
+      },
+      {
+        "name": "Filetto di Maiale al Ribes Rosso"
+      },
+      {
+        "name": "Tris di Dolci (Terramisù, Sbrisolona, Salame di Cioccolato)"
+      }
+    ]
+  },
+  {
+    "id": "267",
+    "name": "Ristorante Indiano Haveli",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      45.2103,
+      10.7472
+    ],
+    "visitDate": "2023-11-04",
+    "country": "Italia",
+    "region": "Lombardia",
+    "province": "MN",
+    "municipality": "Cerese",
+    "address": "46030 Cerese MN",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Naan Cipolla"
+      },
+      {
+        "name": "Naan Aglio"
+      },
+      {
+        "name": "Roti"
+      },
+      {
+        "name": "Kesar Pilao"
+      },
+      {
+        "name": "Jeera Fry Rice"
+      },
+      {
+        "name": "Punjabi Tori"
+      },
+      {
+        "name": "Chicken Tikka Masala"
+      },
+      {
+        "name": "Chicken Kadahi"
+      },
+      {
+        "name": "Momos"
+      }
+    ]
+  },
+  {
+    "id": "268",
+    "name": "Tre da Tre Ristorante Pizzeria",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      45.0703,
+      7.6869
+    ],
+    "visitDate": "2023-11-15",
+    "country": "Italia",
+    "region": "Piemonte",
+    "province": "TO",
+    "municipality": "Torino",
+    "address": "10124 Torino TO",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Agnolotti del Plin con Parmigiano Reggiano, Tè Nero Affumicato e Nocciole delle Langhe"
+      },
+      {
+        "name": "Tajarin ai Porri di Cervere e Salsiccia"
+      }
+    ]
+  },
+  {
+    "id": "269",
+    "name": "Ristorante Ci voleva.mo",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      44.6477,
+      10.9254
+    ],
+    "visitDate": "2023-12-03",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "MO",
+    "municipality": "Modena",
+    "address": "41121 Modena MO",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Tagliere di Salumi e Formaggi",
+        "subItems": [
+          {
+            "name": "Prosciutto Crudo"
+          },
+          {
+            "name": "Coppa"
+          },
+          {
+            "name": "Salame"
+          },
+          {
+            "name": "Mortadella"
+          },
+          {
+            "name": "Mariola"
+          }
+        ]
+      },
+      {
+        "name": "Risotto al Lambrusco e Guanciale Rosolato"
+      },
+      {
+        "name": "Pici Gorgonzola Speck e Noci"
+      }
+    ]
+  },
+  {
+    "id": "270",
+    "name": "Ristorante Pizzeria L’Incontro",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      44.8179,
+      9.9764
+    ],
+    "visitDate": "2023-12-10",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "PR",
+    "municipality": "Salsomaggiore Terme",
+    "address": "43039 Salsomaggiore Terme PR",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Tagliere di Prosciutto Crudo Guerrino Corradi"
+      },
+      {
+        "name": "Trancio di Pizza con Culatello e Porcini"
+      },
+      {
+        "name": "Spaghetti con Crema di Tartufo e Culatello Croccante"
+      }
+    ]
+  },
+  {
+    "id": "271",
+    "name": "Da Mandarein di Fontanili Giliola",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      44.5667,
+      10.6833
+    ],
+    "visitDate": "2024-05-26",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "RE",
+    "municipality": "Salvarano",
+    "address": "42020 Salvarano RE",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Antipasto Misto (Offerto)",
+        "subItems": [
+          {
+            "name": "Anelli di Cipolla"
+          },
+          {
+            "name": "Polenta Fritta"
+          },
+          {
+            "name": "Salame"
+          },
+          {
+            "name": "Mortadella"
+          },
+          {
+            "name": "Erbazzone"
+          },
+          {
+            "name": "Verdure Pastellate Fritte"
+          }
+        ]
+      },
+      {
+        "name": "Tortelli con Cipolla Rossa di Tropea"
+      },
+      {
+        "name": "Pappardelle ai Porcini"
+      },
+      {
+        "name": "Spezzatino di Cervo"
+      },
+      {
+        "name": "Spezzatino di Cinghiale"
+      }
+    ]
+  },
+  {
+    "id": "272",
+    "name": "Culatelleria da Rossi",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      44.8,
+      10.1167
+    ],
+    "visitDate": "2024-06-07",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "PR",
+    "municipality": "Sanguinaro",
+    "address": "43012 Sanguinaro PR",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Pane con Grasso Pesto"
+      },
+      {
+        "name": "Degustazione di Salumi",
+        "subItems": [
+          {
+            "name": "Culatello di Zibello DOP"
+          },
+          {
+            "name": "Culaccia ’Salumifico Rossi’"
+          },
+          {
+            "name": "Prosciutto Crudo 24 Mesi"
+          },
+          {
+            "name": "Strolghino di Culatello"
+          },
+          {
+            "name": "Salame di Felino"
+          }
+        ]
+      },
+      {
+        "name": "Torta Fritta"
+      }
+    ]
+  },
+  {
+    "id": "273",
+    "name": "Ristorante Locanda Del Colle",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      44.8167,
+      9.9833
+    ],
+    "visitDate": "2024-06-07",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "PR",
+    "municipality": "Tabiano",
+    "address": "43039 Tabiano PR",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Formaggio di Capra con Miele, Noci e Mostarda di Fichi"
+      },
+      {
+        "name": "Tagliatelle ai Porri"
+      },
+      {
+        "name": "Gnocchi alla Lavanda"
+      }
+    ]
+  },
+  {
+    "id": "274",
+    "name": "Bar Ristorane Benini Luciano",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      45.8333,
+      10.5167
+    ],
+    "visitDate": "2024-06-22",
+    "country": "Italia",
+    "region": "Lombardia",
+    "province": "BS",
+    "municipality": "Bagolino",
+    "address": "25072 Bagolino BS",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Antipasto Misto (Offerto)",
+        "subItems": [
+          {
+            "name": "Frittatina Speck, Patate e Cipolle"
+          },
+          {
+            "name": "Verdure Pastellate"
+          },
+          {
+            "name": "Involtino Speck e Zucchine"
+          },
+          {
+            "name": "Bagoss alla Piastra"
+          }
+        ]
+      },
+      {
+        "name": "Tagliatelle ai Porcini"
+      },
+      {
+        "name": "Ravioli di Capriolo al Burro e Salvia e Bagoss"
+      }
+    ]
+  },
+  {
+    "id": "275",
+    "name": "Grill Du Beau Sejour",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      45.8222,
+      7.2379
+    ],
+    "visitDate": "2024-07-01",
+    "country": "Italia",
+    "region": "Valle d'Aosta",
+    "province": "AO",
+    "municipality": "Etroubles",
+    "address": "11014 Etroubles AO",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Tagliere di Salumi Valdostani",
+        "subItems": [
+          {
+            "name": "Crudo al Genepy"
+          },
+          {
+            "name": "Prosciutto di Saint-Marcel"
+          },
+          {
+            "name": "Coppa"
+          },
+          {
+            "name": "Moccetta"
+          },
+          {
+            "name": "Lard d’Arnad"
+          },
+          {
+            "name": "Speck"
+          }
+        ]
+      },
+      {
+        "name": "Formaggi Locali"
+      },
+      {
+        "name": "Tagliatelle al Capriolo"
+      },
+      {
+        "name": "Gnocchetti con Fonduta di Formaggi"
+      }
+    ]
+  },
+  {
+    "id": "276",
+    "name": "Taverna Coppapan e Pizzeria Le Dahu",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      45.7167,
+      6.95
+    ],
+    "visitDate": "2024-07-04",
+    "country": "Italia",
+    "region": "Valle d'Aosta",
+    "province": "AO",
+    "municipality": "La Thuile",
+    "address": "11016 La Thuile AO",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Pizza Porcini e Salsiccia"
+      },
+      {
+        "name": "Pizza Moulin (Salsiccia, Pancetta, Fontina)"
+      }
+    ]
+  },
+  {
+    "id": "277",
+    "name": "Ristorane Da Antonio",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      37.1325,
+      14.8481
+    ],
+    "visitDate": "2024-08-07",
+    "country": "Italia",
+    "region": "Sicilia",
+    "province": "SR",
+    "municipality": "Buccheri",
+    "address": "96010 Buccheri SR",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Cavati con Ragù di Finocchietto, Salsiccia e Pinoli"
+      }
+    ]
+  },
+  {
+    "id": "278",
+    "name": "Ristorane San Giorgio e il Drago",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      37.8768,
+      14.9509
+    ],
+    "visitDate": "2024-08-08",
+    "country": "Italia",
+    "region": "Sicilia",
+    "province": "CT",
+    "municipality": "Randazzo",
+    "address": "95036 Randazzo CT",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Tagliere Antipasto Misto",
+        "subItems": [
+          {
+            "name": "Piacentinu Ennese"
+          },
+          {
+            "name": "Formaggio Ubriaco"
+          },
+          {
+            "name": "Caciocavallo"
+          },
+          {
+            "name": "Mortadella"
+          },
+          {
+            "name": "Coppa"
+          },
+          {
+            "name": "Salame di Suino Nero dei Nebrodi"
+          }
+        ]
+      },
+      {
+        "name": "Bruschette"
+      },
+      {
+        "name": "Tonnacchioli ai Funghi"
+      },
+      {
+        "name": "Tagliata di Manzo al Pepe Verde e Rosmarino"
+      }
+    ]
+  },
+  {
+    "id": "279",
+    "name": "Ristorane La Sciccheria",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      37.0755,
+      15.2866
+    ],
+    "visitDate": "2024-08-11",
+    "country": "Italia",
+    "region": "Sicilia",
+    "province": "SR",
+    "municipality": "Siracusa",
+    "address": "96100 Siracusa SR",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Tagliolini alla Marina (Cozze, Vongole, Gamberi)"
+      },
+      {
+        "name": "Tagliolini Melodia (Tartare di Gambero Rosso, Cipolle, Peperoncino)"
+      }
+    ]
+  },
+  {
+    "id": "280",
+    "name": "Rifugio Mario Fraccaroli",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      45.7656,
+      10.9302
+    ],
+    "visitDate": "2024-08-15",
+    "country": "Italia",
+    "region": "Trentino-Alto Adige",
+    "province": "TN",
+    "municipality": "Ala",
+    "address": "38061 Ala TN",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Spaghetti all Montanara (Salsiccia, Funghi, Panna)"
+      },
+      {
+        "name": "Polenta con Funghi e MonteVeronese"
+      },
+      {
+        "name": "Funghi Trifolati"
+      },
+      {
+        "name": "Panino con Speck"
+      }
+    ]
+  },
+  {
+    "id": "281",
+    "name": "Ristorante al Museo",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      44.6216,
+      10.2567
+    ],
+    "visitDate": "2024-09-14",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "PR",
+    "municipality": "Langhirano",
+    "address": "43013 Langhirano PR",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Tagliere di Salumi e Torta Fritta",
+        "subItems": [
+          {
+            "name": "Prosciutto di Parma 24 Mesi"
+          },
+          {
+            "name": "Pancetta Arrotolata Piacentina"
+          },
+          {
+            "name": "Coppa Piacentina"
+          },
+          {
+            "name": "Salame di Felino"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "282",
+    "name": "I Bei Tempi",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      45.1526,
+      10.654
+    ],
+    "visitDate": "2024-09-18",
+    "country": "Italia",
+    "region": "Lombardia",
+    "province": "MN",
+    "municipality": "San Michele In Bosco",
+    "address": "46010 San Michele In Bosco MN",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Pappardelle con Salmì di Lepre"
+      },
+      {
+        "name": "Piatto del Norcino",
+        "subItems": [
+          {
+            "name": "Prosciutto di Parma"
+          },
+          {
+            "name": "Pesto di Salame alla Griglia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "283",
+    "name": "Speck Stube",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      45.7662,
+      10.8139
+    ],
+    "visitDate": "2024-09-29",
+    "country": "Italia",
+    "region": "Veneto",
+    "province": "VR",
+    "municipality": "Malcesine",
+    "address": "37018 Malcesine VR",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Tagliere Misto",
+        "subItems": [
+          {
+            "name": "Speck Alto Adige IGP"
+          },
+          {
+            "name": "Salamino Affumicato"
+          },
+          {
+            "name": "Asiago DOP"
+          },
+          {
+            "name": "Wurstel Bavaresi"
+          },
+          {
+            "name": "Insalata di Patate"
+          }
+        ]
+      },
+      {
+        "name": "Stinco di Maiale al Forno"
+      },
+      {
+        "name": "Patatine Fritte"
+      },
+      {
+        "name": "Crauti"
+      }
+    ]
+  },
+  {
+    "id": "284",
+    "name": "RIC - Chicken House",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      45.1603,
+      10.7978
+    ],
+    "visitDate": "2024-10-12",
+    "country": "Italia",
+    "region": "Lombardia",
+    "province": "MN",
+    "municipality": "Mantova",
+    "address": "46100 Mantova MN",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Mega Tenders (Salsa Creamy White)"
+      },
+      {
+        "name": "Fried Chicken (Salsa Sweet BBQ)"
+      },
+      {
+        "name": "RIC Potatoes"
+      },
+      {
+        "name": "Crispy Chicken Burger (Cotoletta, Scamorza, Cipolla Agrodolce, Maionese, Salsa Coleslaw, Salsa Creamy White)"
+      }
+    ]
+  },
+  {
+    "id": "285",
+    "name": "Ristorante Pizzeria Ponte Molo",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      44.8833,
+      12.3167
+    ],
+    "visitDate": "2024-11-01",
+    "country": "Italia",
+    "region": "Veneto",
+    "province": "RO",
+    "municipality": "Porto Tolle",
+    "address": "45018 Porto Tolle RO",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Cozze, Vongole, Bibarasse"
+      },
+      {
+        "name": "Spaghetti allo Scoglio"
+      },
+      {
+        "name": "Spaghetti alle Vongole e Bibarasse"
+      }
+    ]
+  },
+  {
+    "id": "286",
+    "name": "Le Gresine",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      44.695,
+      12.1845
+    ],
+    "visitDate": "2024-11-02",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "FE",
+    "municipality": "Comacchio",
+    "address": "44022 Comacchio FE",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Anguilla Marinata"
+      },
+      {
+        "name": "Maccheroncini all’Anguilla"
+      },
+      {
+        "name": "Spaghetti alle Vongole Veraci"
+      },
+      {
+        "name": "Anguilla ai Ferri con Polenta"
+      }
+    ]
+  },
+  {
+    "id": "287",
+    "name": "Ai Tre Garofani",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      46.0679,
+      11.1211
+    ],
+    "visitDate": "2024-12-15",
+    "country": "Italia",
+    "region": "Trentino-Alto Adige",
+    "province": "TN",
+    "municipality": "Trento",
+    "address": "38122 Trento TN",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Tagliere Misto Trentino",
+        "subItems": [
+          {
+            "name": "Speck Alto Adige IGP"
+          },
+          {
+            "name": "Salamino Affumicato"
+          },
+          {
+            "name": "Prosciutto Crudo"
+          },
+          {
+            "name": "Bresaola"
+          },
+          {
+            "name": "Rosti di Patate"
+          },
+          {
+            "name": "Asiago DOP"
+          },
+          {
+            "name": "Trentingrana"
+          }
+        ]
+      },
+      {
+        "name": "Zuppa di Farro alla Trentina"
+      },
+      {
+        "name": "Canederli con Fonduta di Trentingrana"
+      }
+    ]
+  },
+  {
+    "id": "288",
+    "name": "Il Biscione",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      44.8512,
+      9.6934
+    ],
+    "visitDate": "2025-01-19",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "PC",
+    "municipality": "Grazzano Visconti",
+    "address": "29020 Grazzano Visconti PC",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Pisarei e Fasö alla Piacentina"
+      },
+      {
+        "name": "Anvei alla Boscaiola"
+      },
+      {
+        "name": "Brasato di Coppa con Melannurca IGP e Cannella"
+      },
+      {
+        "name": "Insalata Rustica di Fagioli, Cipollotto e Pomodorini"
+      }
+    ]
+  },
+  {
+    "id": "289",
+    "name": "Calavera",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      44.8015,
+      10.328
+    ],
+    "visitDate": "2025-02-02",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "PR",
+    "municipality": "Parma",
+    "address": "43121 Parma PR",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Arroz con Chorizo"
+      },
+      {
+        "name": "Burrito Red Avocado"
+      },
+      {
+        "name": "Taco Chicken"
+      },
+      {
+        "name": "Taco Pulled Pork"
+      }
+    ]
+  },
+  {
+    "id": "290",
+    "name": "Agriturismo Al Fugulèr",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      45.2203,
+      10.7572
+    ],
+    "visitDate": "2025-03-21",
+    "country": "Italia",
+    "region": "Lombardia",
+    "province": "MN",
+    "municipality": "Marmirolo",
+    "address": "46045 Marmirolo MN",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Tagliere di Salumi Mantovani",
+        "subItems": [
+          {
+            "name": "Salame Mantovano"
+          },
+          {
+            "name": "Coppa"
+          },
+          {
+            "name": "Prosciutto Crudo"
+          },
+          {
+            "name": "Pancetta"
+          },
+          {
+            "name": "Grana Padano"
+          },
+          {
+            "name": "Giardiniera"
+          }
+        ]
+      },
+      {
+        "name": "Risotto alla Pilota"
+      },
+      {
+        "name": "Risotto Funghi e Salsiccia"
+      },
+      {
+        "name": "Maccheroncini allo Stracotto"
+      },
+      {
+        "name": "Guancialini in Umido"
+      }
+    ]
+  },
+  {
+    "id": "291",
+    "name": "Pizzeria Focacceria Quattrocento",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      45.4181,
+      10.9739
+    ],
+    "visitDate": "2025-04-12",
+    "country": "Italia",
+    "region": "Veneto",
+    "province": "VR",
+    "municipality": "Marzana",
+    "address": "37142 Marzana VR",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Pizza Quattrocento (Salsiccia Veneta, Salamino Piccante, Monteveronese DOP, Pangrattato) + Cipolla"
+      },
+      {
+        "name": "Pizza (Impasto Speciale) Marinara + Cipolla"
+      },
+      {
+        "name": "Pizza (Impasto senza Glutine) con Nutella"
+      }
+    ]
+  },
+  {
+    "id": "292",
+    "name": "Ristorante Trattoria \"Acetaia del Balsamico Trentino\"",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      45.9408,
+      10.8159
+    ],
+    "visitDate": "2025-04-25",
+    "country": "Italia",
+    "region": "Trentino-Alto Adige",
+    "province": "TN",
+    "municipality": "Tenno",
+    "address": "38060 Tenno TN",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Antipasto misto dell’Acetaia",
+        "subItems": [
+          {
+            "name": "Carne Salada di Cologna"
+          },
+          {
+            "name": "Coppa di Testa"
+          },
+          {
+            "name": "Prosciutto Crudo"
+          },
+          {
+            "name": "Salame Nostrano"
+          },
+          {
+            "name": "Ricotta Fresca"
+          },
+          {
+            "name": "Sizam di Biancostato di Manzo"
+          },
+          {
+            "name": "Focaccia con Marmellata di Cipolle e Arance"
+          },
+          {
+            "name": "Cavolo Cappuccio e Cipolle in Agrodolce"
+          }
+        ]
+      },
+      {
+        "name": "Tartare di Carne Salada di Cologna"
+      },
+      {
+        "name": "Canederli al Burro e Salvia"
+      },
+      {
+        "name": "Tagliolini di Grano Saraceno con Pesto di Ortiche"
+      },
+      {
+        "name": "Caserecce con Crema di Zucchine e Trota"
+      },
+      {
+        "name": "Spaghetti Ubriachi con Guanciale, Pancetta e Fonduta di Bonomì"
+      }
+    ]
+  }
+]
