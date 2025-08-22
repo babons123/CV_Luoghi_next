@@ -4,7 +4,10 @@
     "name": "Bivacco Santa Maria Maddalena",
     "description": "",
     "category": "bivacchi",
-    "coordinates": [0, 0],
+    "coordinates": [
+      44.3833,
+      10.4167
+    ],
     "visitDate": "2021-06-28",
     "country": "Italia",
     "region": "Emilia-Romagna",
@@ -18,7 +21,10 @@
     "name": "Capanna Marco Cagnin",
     "description": "",
     "category": "bivacchi",
-    "coordinates": [0, 0],
+    "coordinates": [
+      44.4124,
+      10.1233
+    ],
     "visitDate": "2023-09-10",
     "country": "Italia",
     "region": "Emilia-Romagna",

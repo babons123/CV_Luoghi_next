@@ -4,7 +4,10 @@
     "name": "Aeroporto di Milano Malpensa",
     "description": "",
     "category": "aeroporti",
-    "coordinates": [0, 0],
+    "coordinates": [
+      45.6761,
+      8.7031
+    ],
     "visitDate": "2015-03-01",
     "country": "Italia",
     "region": "Lombardia",
@@ -17,7 +20,10 @@
     "name": "Aeroporto John Fitzgerald Kennedy International",
     "description": "",
     "category": "aeroporti",
-    "coordinates": [0, 0],
+    "coordinates": [
+      40.6413,
+      -73.7781
+    ],
     "visitDate": "2015-03-01",
     "country": "USA",
     "region": "New York",
@@ -30,7 +36,10 @@
     "name": "Aeroporto Valerio Catullo",
     "description": "",
     "category": "aeroporti",
-    "coordinates": [0, 0],
+    "coordinates": [
+      45.3956,
+      10.8889
+    ],
     "visitDate": "2022-08-01",
     "country": "Italia",
     "region": "Veneto",
@@ -43,7 +52,10 @@
     "name": "Aeroporto di Catania",
     "description": "",
     "category": "aeroporti",
-    "coordinates": [0, 0],
+    "coordinates": [
+      37.5074,
+      15.0831
+    ],
     "visitDate": "2022-08-01",
     "country": "Italia",
     "region": "Sicilia",

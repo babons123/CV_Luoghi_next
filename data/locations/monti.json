@@ -4,7 +4,10 @@
     "name": "Monte Ventasso",
     "description": "",
     "category": "monti",
-    "coordinates": [0, 0],
+    "coordinates": [
+      44.3833,
+      10.4167
+    ],
     "visitDate": "2021-06-28",
     "country": "Italia",
     "region": "Emilia-Romagna",
@@ -19,7 +22,10 @@
     "name": "Monte Brusà",
     "description": "",
     "category": "monti",
-    "coordinates": [0, 0],
+    "coordinates": [
+      44.5667,
+      10.0833
+    ],
     "visitDate": "2021-08-15",
     "country": "Italia",
     "region": "Emilia-Romagna",
@@ -37,7 +43,7 @@
         "altitude": 1781
       },
       {
-        "name": "Passo dell’Aquila",
+        "name": "Passo dell'Aquila",
         "altitude": 1700
       },
       {
@@ -55,7 +61,10 @@
     "name": "Monte Scaletta",
     "description": "",
     "category": "monti",
-    "coordinates": [0, 0],
+    "coordinates": [
+      44.6833,
+      10.1333
+    ],
     "visitDate": "2022-04-15",
     "country": "Italia",
     "region": "Emilia-Romagna",
@@ -70,7 +79,10 @@
     "name": "Monte Cusna",
     "description": "",
     "category": "monti",
-    "coordinates": [0, 0],
+    "coordinates": [
+      44.3167,
+      10.4833
+    ],
     "visitDate": "2023-07-09",
     "country": "Italia",
     "region": "Emilia-Romagna",
@@ -84,7 +96,7 @@
         "altitude": 1839
       },
       {
-        "name": "Cima dell’Angelo",
+        "name": "Cima dell'Angelo",
         "altitude": 1957
       },
       {
@@ -102,7 +114,10 @@
     "name": "Monte Baldo",
     "description": "",
     "category": "monti",
-    "coordinates": [0, 0],
+    "coordinates": [
+      45.7333,
+      10.9333
+    ],
     "visitDate": "2023-08-12",
     "country": "Italia",
     "region": "Trentino-Alto Adige",
@@ -130,13 +145,16 @@
     "name": "Monte Sillara",
     "description": "",
     "category": "monti",
-    "coordinates": [0, 0],
+    "coordinates": [
+      44.5667,
+      10.1667
+    ],
     "visitDate": "2023-09-10",
     "country": "Italia",
     "region": "Emilia-Romagna",
     "province": "PR",
     "municipality": "Monchio delle corti",
-    "address": "43010 Monchio delle corti PR",
+    "address": "43010 Monchio delle Corti PR",
     "altitude": 1861,
     "mountainFeatures": [
       {
@@ -170,7 +188,10 @@
     "name": "Monte Rico",
     "description": "",
     "category": "monti",
-    "coordinates": [0, 0],
+    "coordinates": [
+      44.6167,
+      10.4333
+    ],
     "visitDate": "2024-05-26",
     "country": "Italia",
     "region": "Emilia-Romagna",
@@ -206,7 +227,10 @@
     "name": "Monte Carega",
     "description": "",
     "category": "monti",
-    "coordinates": [0, 0],
+    "coordinates": [
+      45.7656,
+      10.9302
+    ],
     "visitDate": "2024-08-15",
     "country": "Italia",
     "region": "Trentino-Alto Adige",
@@ -246,7 +270,10 @@
     "name": "Monte Amiata",
     "description": "",
     "category": "monti",
-    "coordinates": [0, 0],
+    "coordinates": [
+      42.8833,
+      11.6667
+    ],
     "visitDate": "2025-05-03",
     "country": "Italia",
     "region": "Toscana",

@@ -4,7 +4,10 @@
     "name": "Lagdei",
     "description": "",
     "category": "rifugi",
-    "coordinates": [0, 0],
+    "coordinates": [
+      45.1084,
+      10.0381
+    ],
     "visitDate": "2021-08-15",
     "country": "Italia",
     "region": "Emilia-Romagna",
@@ -18,7 +21,10 @@
     "name": "Mariotti",
     "description": "",
     "category": "rifugi",
-    "coordinates": [0, 0],
+    "coordinates": [
+      45.1084,
+      10.0381
+    ],
     "visitDate": "2021-08-15",
     "country": "Italia",
     "region": "Emilia-Romagna",
@@ -32,7 +38,10 @@
     "name": "Malga Venegiota",
     "description": "",
     "category": "rifugi",
-    "coordinates": [0, 0],
+    "coordinates": [
+      46.1762,
+      11.8288
+    ],
     "visitDate": "2021-09-24",
     "country": "Italia",
     "region": "Trentino-Alto Adige",
@@ -46,7 +55,10 @@
     "name": "Baita Segantini",
     "description": "",
     "category": "rifugi",
-    "coordinates": [0, 0],
+    "coordinates": [
+      46.2964,
+      11.7869
+    ],
     "visitDate": "2021-09-24",
     "country": "Italia",
     "region": "Trentino-Alto Adige",
@@ -60,7 +72,10 @@
     "name": "Pianvallese",
     "description": "",
     "category": "rifugi",
-    "coordinates": [0, 0],
+    "coordinates": [
+      44.3167,
+      10.4833
+    ],
     "visitDate": "2023-07-09",
     "country": "Italia",
     "region": "Emilia-Romagna",
@@ -74,7 +89,10 @@
     "name": "Monte Orasaro",
     "description": "",
     "category": "rifugi",
-    "coordinates": [0, 0],
+    "coordinates": [
+      44.3833,
+      10.1667
+    ],
     "visitDate": "2023-07-09",
     "country": "Italia",
     "region": "Emilia-Romagna",
@@ -88,7 +106,10 @@
     "name": "Chalet Falco Prà Alpesina",
     "description": "",
     "category": "rifugi",
-    "coordinates": [0, 0],
+    "coordinates": [
+      45.7333,
+      10.9333
+    ],
     "visitDate": "2023-08-12",
     "country": "Italia",
     "region": "Trentino-Alto Adige",
@@ -102,13 +123,16 @@
     "name": "Città di Lissone",
     "description": "",
     "category": "rifugi",
-    "coordinates": [0, 0],
+    "coordinates": [
+      46.0167,
+      10.3333
+    ],
     "visitDate": "2023-08-19",
     "country": "Italia",
     "region": "Lombardia",
     "province": "BS",
     "municipality": "Saviore dell'Adamello",
-    "address": "25040 Saviore dellAdamello BS",
+    "address": "25040 Saviore dell'Adamello BS",
     "altitude": 2017
   },
   {
@@ -116,13 +140,16 @@
     "name": "Baita Adamè",
     "description": "",
     "category": "rifugi",
-    "coordinates": [0, 0],
+    "coordinates": [
+      46.0167,
+      10.3333
+    ],
     "visitDate": "2023-08-19",
     "country": "Italia",
     "region": "Lombardia",
     "province": "BS",
     "municipality": "Saviore dell'Adamello",
-    "address": "25040 Saviore dellAdamello BS",
+    "address": "25040 Saviore dell'Adamello BS",
     "altitude": 2150
   },
   {
@@ -130,7 +157,10 @@
     "name": "Piano Fiscalina",
     "description": "",
     "category": "rifugi",
-    "coordinates": [0, 0],
+    "coordinates": [
+      46.7,
+      12.35
+    ],
     "visitDate": "2023-08-26",
     "country": "Italia",
     "region": "Trentino-Alto Adige",
@@ -144,7 +174,10 @@
     "name": "Fondovalle",
     "description": "",
     "category": "rifugi",
-    "coordinates": [0, 0],
+    "coordinates": [
+      46.7,
+      12.35
+    ],
     "visitDate": "2023-08-26",
     "country": "Italia",
     "region": "Trentino-Alto Adige",
@@ -158,7 +191,10 @@
     "name": "Malga Foresta",
     "description": "",
     "category": "rifugi",
-    "coordinates": [0, 0],
+    "coordinates": [
+      46.6833,
+      12.0833
+    ],
     "visitDate": "2023-08-27",
     "country": "Italia",
     "region": "Trentino-Alto Adige",
@@ -172,13 +208,16 @@
     "name": "Pratospilla",
     "description": "",
     "category": "rifugi",
-    "coordinates": [0, 0],
+    "coordinates": [
+      44.5667,
+      10.1667
+    ],
     "visitDate": "2023-09-10",
     "country": "Italia",
     "region": "Emilia-Romagna",
     "province": "PR",
     "municipality": "Monchio delle corti",
-    "address": "43010 Monchio delle corti PR",
+    "address": "43010 Monchio delle Corti PR",
     "altitude": 1350
   },
   {
@@ -186,13 +225,16 @@
     "name": "Baracchino",
     "description": "",
     "category": "rifugi",
-    "coordinates": [0, 0],
+    "coordinates": [
+      44.5667,
+      10.1667
+    ],
     "visitDate": "2023-09-10",
     "country": "Italia",
     "region": "Emilia-Romagna",
     "province": "PR",
     "municipality": "Monchio delle corti",
-    "address": "43010 Monchio delle corti PR",
+    "address": "43010 Monchio delle Corti PR",
     "altitude": 1341
   },
   {
@@ -200,7 +242,10 @@
     "name": "Cuneck",
     "description": "",
     "category": "rifugi",
-    "coordinates": [0, 0],
+    "coordinates": [
+      45.6833,
+      11.0167
+    ],
     "visitDate": "2023-09-24",
     "country": "Italia",
     "region": "Veneto",
@@ -214,7 +259,10 @@
     "name": "Bocca di Selva",
     "description": "",
     "category": "rifugi",
-    "coordinates": [0, 0],
+    "coordinates": [
+      45.7,
+      11.0
+    ],
     "visitDate": "2023-09-24",
     "country": "Italia",
     "region": "Veneto",
@@ -228,7 +276,10 @@
     "name": "Bar Bistrot Volare",
     "description": "",
     "category": "rifugi",
-    "coordinates": [0, 0],
+    "coordinates": [
+      44.55,
+      10.65
+    ],
     "visitDate": "2024-05-26",
     "country": "Italia",
     "region": "Emilia-Romagna",
@@ -242,7 +293,10 @@
     "name": "Tita Secchi",
     "description": "",
     "category": "rifugi",
-    "coordinates": [0, 0],
+    "coordinates": [
+      45.95,
+      10.3167
+    ],
     "visitDate": "2024-06-22",
     "country": "Italia",
     "region": "Lombardia",
@@ -256,7 +310,10 @@
     "name": "Tetras Lyre",
     "description": "",
     "category": "rifugi",
-    "coordinates": [0, 0],
+    "coordinates": [
+      45.7,
+      7.3
+    ],
     "visitDate": "2024-07-02",
     "country": "Italia",
     "region": "Valle d'Aosta",
@@ -270,7 +327,10 @@
     "name": "Vittorio Emanuele II",
     "description": "",
     "category": "rifugi",
-    "coordinates": [0, 0],
+    "coordinates": [
+      45.55,
+      7.2167
+    ],
     "visitDate": "2024-07-02",
     "country": "Italia",
     "region": "Valle d'Aosta",
@@ -284,7 +344,10 @@
     "name": "Federico Chabod",
     "description": "",
     "category": "rifugi",
-    "coordinates": [0, 0],
+    "coordinates": [
+      45.55,
+      7.2167
+    ],
     "visitDate": "2024-07-02",
     "country": "Italia",
     "region": "Valle d'Aosta",
@@ -298,7 +361,10 @@
     "name": "Pavillon",
     "description": "",
     "category": "rifugi",
-    "coordinates": [0, 0],
+    "coordinates": [
+      45.7967,
+      6.9678
+    ],
     "visitDate": "2024-07-04",
     "country": "Italia",
     "region": "Valle d'Aosta",
@@ -312,7 +378,10 @@
     "name": "Torino",
     "description": "",
     "category": "rifugi",
-    "coordinates": [0, 0],
+    "coordinates": [
+      45.7967,
+      6.9678
+    ],
     "visitDate": "2024-07-04",
     "country": "Italia",
     "region": "Valle d'Aosta",
@@ -323,10 +392,13 @@
   },
   {
     "id": "l-ermitage-chamois",
-    "name": "L’Ermitage Chamois",
+    "name": "L'Ermitage Chamois",
     "description": "",
     "category": "rifugi",
-    "coordinates": [0, 0],
+    "coordinates": [
+      45.8333,
+      7.6167
+    ],
     "visitDate": "2024-07-05",
     "country": "Italia",
     "region": "Valle d'Aosta",
@@ -340,7 +412,10 @@
     "name": "Revolto",
     "description": "",
     "category": "rifugi",
-    "coordinates": [0, 0],
+    "coordinates": [
+      45.6833,
+      11.1
+    ],
     "visitDate": "2024-08-15",
     "country": "Italia",
     "region": "Veneto",
@@ -354,7 +429,10 @@
     "name": "Passo Pertica",
     "description": "",
     "category": "rifugi",
-    "coordinates": [0, 0],
+    "coordinates": [
+      45.7656,
+      10.9302
+    ],
     "visitDate": "2024-08-15",
     "country": "Italia",
     "region": "Trentino-Alto Adige",
@@ -368,7 +446,10 @@
     "name": "Fraccaroli",
     "description": "",
     "category": "rifugi",
-    "coordinates": [0, 0],
+    "coordinates": [
+      45.7656,
+      10.9302
+    ],
     "visitDate": "2024-08-15",
     "country": "Italia",
     "region": "Trentino-Alto Adige",
@@ -382,7 +463,10 @@
     "name": "Scalorbi",
     "description": "",
     "category": "rifugi",
-    "coordinates": [0, 0],
+    "coordinates": [
+      45.7656,
+      10.9302
+    ],
     "visitDate": "2024-08-15",
     "country": "Italia",
     "region": "Trentino-Alto Adige",
