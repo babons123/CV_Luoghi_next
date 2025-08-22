@@ -13,7 +13,15 @@ export interface Tag {
 }
 export interface EatenFoodItem {
   name: string;
-  subItems?: EatenFoodItem[]; // Permette di avere sotto-liste ricorsive
+  // quantity?: string;
+  // description?: string;
+  subItems?: EatenFoodItem[];
+}
+
+export interface MountainFeature {
+  name: string;
+  altitude?: number; // Altitudine della cima o del passo, in metri
+  subFeatures?: MountainFeature[]; // Nidificazione (per esempio, un passo che ha più punti rilevanti)
 }
 
 export interface Location {
@@ -33,7 +41,7 @@ export interface Location {
   address?: string;
   municipality?: string;
   photos?: string[];
-  tags?: string[]; // Array di ID di Tag
+  tags?: string[];
   rating?: number;
   notes?: string;
   website?: string;
@@ -47,7 +55,13 @@ export interface Location {
   // Ristoranti
   cucina?: string;
   prezzo?: '€' | '€€' | '€€€';
-  eatenFoods?: EatenFoodItem[]; // Array di oggetti EatenFoodItem, che supportano la nidificazione
+  eatenFoods?: EatenFoodItem[];
+
+  // NUOVO: Campo altitudine per Montagne, Rifugi, Bivacchi
+  altitude?: number; // Altitudine in metri
+
+  // NUOVO: Campo per le caratteristiche specifiche di una montagna (cime secondarie, passi)
+  mountainFeatures?: MountainFeature[];
 
   // Aggiunto per compatibilità con il tuo LocationCard
   drivePhotosUrl?: string;

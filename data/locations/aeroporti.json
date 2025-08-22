@@ -1,0 +1,54 @@
+[
+  {
+    "id": "mxp",
+    "name": "Aeroporto di Milano Malpensa",
+    "description": "",
+    "category": "aeroporti",
+    "coordinates": [0, 0],
+    "visitDate": "2015-03-01",
+    "country": "Italia",
+    "region": "Lombardia",
+    "province": "VA",
+    "municipality": "Ferno",
+    "address": "21010 Ferno VA"
+  },
+  {
+    "id": "jfk",
+    "name": "Aeroporto John Fitzgerald Kennedy International",
+    "description": "",
+    "category": "aeroporti",
+    "coordinates": [0, 0],
+    "visitDate": "2015-03-01",
+    "country": "USA",
+    "region": "New York",
+    "province": "NY",
+    "municipality": "New York",
+    "address": "JFK New York USA"
+  },
+  {
+    "id": "vrn",
+    "name": "Aeroporto Valerio Catullo",
+    "description": "",
+    "category": "aeroporti",
+    "coordinates": [0, 0],
+    "visitDate": "2022-08-01",
+    "country": "Italia",
+    "region": "Veneto",
+    "province": "VR",
+    "municipality": "Caselle",
+    "address": "37066 Caselle VR"
+  },
+  {
+    "id": "cta",
+    "name": "Aeroporto di Catania",
+    "description": "",
+    "category": "aeroporti",
+    "coordinates": [0, 0],
+    "visitDate": "2022-08-01",
+    "country": "Italia",
+    "region": "Sicilia",
+    "province": "CT",
+    "municipality": "Catania",
+    "address": "95121 Catania CT"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "bivacco-santa-maria-maddalena",
+    "name": "Bivacco Santa Maria Maddalena",
+    "description": "",
+    "category": "bivacchi",
+    "coordinates": [0, 0],
+    "visitDate": "2021-06-28",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "RE",
+    "municipality": "Ventasso",
+    "address": "42030 Ventasso RE",
+    "altitude": 1502
+  },
+  {
+    "id": "capanna-marco-cagnin",
+    "name": "Capanna Marco Cagnin",
+    "description": "",
+    "category": "bivacchi",
+    "coordinates": [0, 0],
+    "visitDate": "2023-09-10",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "PR",
+    "municipality": "Monchio delle Corti",
+    "address": "43010 Monchio delle Corti PR",
+    "altitude": 1590
+  }
+]

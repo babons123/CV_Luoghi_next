@@ -1,0 +1,259 @@
+[
+  {
+    "id": "monte-ventasso",
+    "name": "Monte Ventasso",
+    "description": "",
+    "category": "monti",
+    "coordinates": [0, 0],
+    "visitDate": "2021-06-28",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "RE",
+    "municipality": "Ventasso",
+    "address": "42032 Ventasso RE",
+    "altitude": 1726,
+    "mountainFeatures": []
+  },
+  {
+    "id": "monte-brusa",
+    "name": "Monte Brusà",
+    "description": "",
+    "category": "monti",
+    "coordinates": [0, 0],
+    "visitDate": "2021-08-15",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "PR",
+    "municipality": "Corniglio",
+    "address": "43021 Corniglio PR",
+    "altitude": 1797,
+    "mountainFeatures": [
+      {
+        "name": "Sella del Marmagna",
+        "altitude": 1725
+      },
+      {
+        "name": "Monte Aquilotto",
+        "altitude": 1781
+      },
+      {
+        "name": "Passo dell’Aquila",
+        "altitude": 1700
+      },
+      {
+        "name": "Monte Aquila",
+        "altitude": 1779
+      },
+      {
+        "name": "Passo delle Guadine",
+        "altitude": 1687
+      }
+    ]
+  },
+  {
+    "id": "monte-scaletta",
+    "name": "Monte Scaletta",
+    "description": "",
+    "category": "monti",
+    "coordinates": [0, 0],
+    "visitDate": "2022-04-15",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "PR",
+    "municipality": "Calestano",
+    "address": "43030 Calestano PR",
+    "altitude": 1143,
+    "mountainFeatures": []
+  },
+  {
+    "id": "monte-cusna",
+    "name": "Monte Cusna",
+    "description": "",
+    "category": "monti",
+    "coordinates": [0, 0],
+    "visitDate": "2023-07-09",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "RE",
+    "municipality": "Villa Minozzo",
+    "address": "42030 Villa Minozzo RE",
+    "altitude": 2121,
+    "mountainFeatures": [
+      {
+        "name": "Il Passone",
+        "altitude": 1839
+      },
+      {
+        "name": "Cima dell’Angelo",
+        "altitude": 1957
+      },
+      {
+        "name": "Monte La Piella",
+        "altitude": 2077
+      },
+      {
+        "name": "Sasso del Morto",
+        "altitude": 2070
+      }
+    ]
+  },
+  {
+    "id": "monte-baldo",
+    "name": "Monte Baldo",
+    "description": "",
+    "category": "monti",
+    "coordinates": [0, 0],
+    "visitDate": "2023-08-12",
+    "country": "Italia",
+    "region": "Trentino-Alto Adige",
+    "province": "TN",
+    "municipality": "Avio",
+    "address": "38063 Avio TN",
+    "altitude": 2218,
+    "mountainFeatures": [
+      {
+        "name": "Cima delle Pozzette",
+        "altitude": 2132
+      },
+      {
+        "name": "Cima Longino",
+        "altitude": 2179
+      },
+      {
+        "name": "Cima Valdritta",
+        "altitude": 2212
+      }
+    ]
+  },
+  {
+    "id": "monte-sillara",
+    "name": "Monte Sillara",
+    "description": "",
+    "category": "monti",
+    "coordinates": [0, 0],
+    "visitDate": "2023-09-10",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "PR",
+    "municipality": "Monchio delle corti",
+    "address": "43010 Monchio delle corti PR",
+    "altitude": 1861,
+    "mountainFeatures": [
+      {
+        "name": "Passo Giovarello",
+        "altitude": 1748
+      },
+      {
+        "name": "Monte Bragalata",
+        "altitude": 1836
+      },
+      {
+        "name": "Monte Losanna",
+        "altitude": 1856
+      },
+      {
+        "name": "Passo Compione",
+        "altitude": 1796
+      },
+      {
+        "name": "Nuda di Iera",
+        "altitude": 1840
+      },
+      {
+        "name": "Passo del Cavallo",
+        "altitude": 1738
+      }
+    ]
+  },
+  {
+    "id": "monte-rico",
+    "name": "Monte Rico",
+    "description": "",
+    "category": "monti",
+    "coordinates": [0, 0],
+    "visitDate": "2024-05-26",
+    "country": "Italia",
+    "region": "Emilia-Romagna",
+    "province": "RE",
+    "municipality": "Quattro Castella",
+    "address": "42020 Quattro Castella RE",
+    "altitude": 313,
+    "mountainFeatures": [
+      {
+        "name": "Monte Biliano",
+        "altitude": 395
+      },
+      {
+        "name": "Monte Airone",
+        "altitude": 389
+      },
+      {
+        "name": "Monte Vetro",
+        "altitude": 291
+      },
+      {
+        "name": "Monte Lucio",
+        "altitude": 319
+      },
+      {
+        "name": "Monte Zagno",
+        "altitude": 309
+      }
+    ]
+  },
+  {
+    "id": "monte-carega",
+    "name": "Monte Carega",
+    "description": "",
+    "category": "monti",
+    "coordinates": [0, 0],
+    "visitDate": "2024-08-15",
+    "country": "Italia",
+    "region": "Trentino-Alto Adige",
+    "province": "TN",
+    "municipality": "Ala",
+    "address": "38061 Ala TN",
+    "altitude": 2259,
+    "mountainFeatures": [
+      {
+        "name": "Cima Tibet",
+        "altitude": 2098
+      },
+      {
+        "name": "Cima Madonnina",
+        "altitude": 2140
+      },
+      {
+        "name": "La Selletta",
+        "altitude": 2104
+      },
+      {
+        "name": "Bocchetta Capitello",
+        "altitude": 2100
+      },
+      {
+        "name": "Bocchetta Mosca",
+        "altitude": 2029
+      },
+      {
+        "name": "Passo Pelagatta",
+        "altitude": 1770
+      }
+    ]
+  },
+  {
+    "id": "monte-amiata",
+    "name": "Monte Amiata",
+    "description": "",
+    "category": "monti",
+    "coordinates": [0, 0],
+    "visitDate": "2025-05-03",
+    "country": "Italia",
+    "region": "Toscana",
+    "province": "SI",
+    "municipality": "Abbadia San Salvatore",
+    "address": "53021 Abbadia San Salvatore SI",
+    "altitude": 1733,
+    "mountainFeatures": []
+  }
+]
