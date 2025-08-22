@@ -2343,5 +2343,225 @@
         "name": "Spaghetti Ubriachi con Guanciale, Pancetta e Fonduta di Bonomì"
       }
     ]
+  },
+  {
+    "id": "293",
+    "name": "Idillyum",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      43.07650,
+      11.67810
+    ],
+    "visitDate": "2025-05-01",
+    "country": "Italia",
+    "region": "Toscana",
+    "province": "SI",
+    "municipality": "Pienza",
+    "address": "53026 Pienza SI",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Degustazione di Salumi Senesi e Pecorini della Val D'Orcia",
+        "subItems": [
+          {
+            "name": "Finocchiona"
+          },
+          {
+            "name": "Coppa"
+          },
+          {
+            "name": "Prosciutto Crudo"
+          },
+          {
+            "name": "Salame"
+          },
+          {
+            "name": "Lonzino"
+          },
+          {
+            "name": "Pecorino Erborinato"
+          },
+          {
+            "name": "Pecorino Toscano Stagionato"
+          },
+          {
+            "name": "Pecorino Toscano Giovane"
+          }
+        ]
+      },
+      {
+        "name": "Pici Etruschi - Crema di Pomodoro, Basilico, Pinoli, Pangrattato al Finocchietto"
+      },
+      {
+        "name": "Tagliatellona al Ragù di Capriolo"
+      }
+    ]
+  },
+  {
+    "id": "294",
+    "name": "Pane e Companatico",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      42.8951,
+      11.7681
+    ],
+    "visitDate": "2025-05-02",
+    "country": "Italia",
+    "region": "Toscana",
+    "province": "SI",
+    "municipality": "Radicofani",
+    "address": "53040 Radicofani SI",
+    "notes": "Coordinate non verificate con esattezza.",
+    "eatenFoods": [
+      {
+        "name": "Tagliere di Salumi e Pecorini",
+        "subItems": [
+          {
+            "name": "Finocchiona"
+          },
+          {
+            "name": "Coppa"
+          },
+          {
+            "name": "Prosciutto Crudo"
+          },
+          {
+            "name": "Salame"
+          },
+          {
+            "name": "Lonzino"
+          },
+          {
+            "name": "Ricotta di Pecora"
+          },
+          {
+            "name": "Pecorino Toscano Stagionato"
+          },
+          {
+            "name": "Pecorino Toscano Giovane"
+          },
+          {
+            "name": "Melanzane e Zucchine Grigliate"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "295",
+    "name": "Ristorante Pizzeria Laccoria",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      42.8836,
+      11.6743
+    ],
+    "visitDate": "2025-05-02",
+    "country": "Italia",
+    "region": "Toscana",
+    "province": "SI",
+    "municipality": "Abbadia San Salvatore",
+    "address": "53021 Abbadia San Salvatore SI",
+    "notes": "Coordinate non verificate con esattezza.",
+    "eatenFoods": [
+      {
+        "name": "Tagliatelle al Ragù Bianco di Cinta Senese"
+      },
+      {
+        "name": "Tagliata di Chianina al Rosmarino"
+      },
+      {
+        "name": "Verdure Grigliate"
+      }
+    ]
+  },
+  {
+    "id": "296",
+    "name": "Locanda Val D'Orcia",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      43.0423,
+      11.6234
+    ],
+    "visitDate": "2025-05-03",
+    "country": "Italia",
+    "region": "Toscana",
+    "province": "SI",
+    "municipality": "Campiglia D'Orcia",
+    "address": "53023 Campiglia D'Orcia SI",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Pappa al Pomodoro"
+      },
+      {
+        "name": "Battuta di Chianina al coltello con Maionese ai Capperi e Acciughe su Cialda di Parmigiano"
+      },
+      {
+        "name": "Pici all'Aglione"
+      },
+      {
+        "name": "Pici con Pecorino e Tartufo"
+      }
+    ]
+  },
+  {
+    "id": "297",
+    "name": "Ristorante La Stua",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      46.292486,
+      11.458732
+    ],
+    "visitDate": "2025-06-21",
+    "country": "Italia",
+    "region": "Trentino-Alto Adige",
+    "province": "TN",
+    "municipality": "Cavalese",
+    "address": "38033 Cavalese TN",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Rosti di Patate con Carne Salada, Trentingrana, Olio al Tartufo e Ribes"
+      },
+      {
+        "name": "Tagliatelle con sugo di Zucchine, Pistacchio e Gamberi"
+      },
+      {
+        "name": "Tortelli ai Porcini con Speck e Porcini"
+      }
+    ]
+  },
+  {
+    "id": "298",
+    "name": "Osteria Antica Colonna",
+    "description": "",
+    "category": "ristorante",
+    "coordinates": [
+      45.4090,
+      11.8792
+    ],
+    "visitDate": "2025-07-05",
+    "country": "Italia",
+    "region": "Veneto",
+    "province": "PD",
+    "municipality": "Padova",
+    "address": "35123 Padova PD",
+    "notes": "",
+    "eatenFoods": [
+      {
+        "name": "Uovo in Padella con Tartufo di Acqualagna DOP"
+      },
+      {
+        "name": "Tagliatelle con Tartufo di Acqualagna DOP"
+      },
+      {
+        "name": "Bigoli con Sugo di Sarde"
+      }
+    ]
   }
 ]
