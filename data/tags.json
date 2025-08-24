@@ -20,18 +20,53 @@
     "logoAlt": "Logo Touring Club Italiano",
     "prestige": 4
   },
-  "via_francigena": {
-    "id": "via_francigena",
-    "name": "Via Francigena",
+  "oasi_lipu": {
+    "id": "oasi_lipu",
+    "name": "Oasi LIPU",
     "category": "geographic",
-    "color": "#D2691E",
-    "backgroundColor": "#FAF0E6"
+    "color": "#009A44",
+    "backgroundColor": "#E6F5EC"
   },
-  "medievale": {
-    "id": "medievale",
-    "name": "Medievale",
-    "category": "thematic",
-    "color": "#708090",
-    "backgroundColor": "#F0F8FF"
+  "bene_fai": {
+    "id": "bene_fai",
+    "name": "Bene FAI",
+    "category": "geographic",
+    "color": "#A52A2A",
+    "backgroundColor": "#F6EAEA"
+  },
+  "castelli_ducato": {
+    "id": "castelli_ducato",
+    "name": "Castelli del Ducato",
+    "category": "geographic",
+    "color": "#800000",
+    "backgroundColor": "#F2E6E6"
+  },
+  "rete_natura_2000": {
+    "id": "rete_natura_2000",
+    "name": "Rete Natura 2000 (ZPS, ZSC)",
+    "category": "geographic",
+    "color": "#508A38",
+    "backgroundColor": "#EDF4EB"
+  },
+  "foreste_ersaf": {
+    "id": "foreste_ersaf",
+    "name": "Foresta ERSAF",
+    "category": "geographic",
+    "color": "#006400",
+    "backgroundColor": "#E6EFE6"
+  },
+  "parco_nazionale": {
+    "id": "parco_nazionale",
+    "name": "Parco Nazionale",
+    "category": "geographic",
+    "color": "#228B22",
+    "backgroundColor": "#E9F4E9"
+  },
+  "parco_regionale": {
+    "id": "parco_regionale",
+    "name": "Parco Regionale",
+    "category": "geographic",
+    "color": "#3CB371",
+    "backgroundColor": "#EBF7F1"
   }
 }
